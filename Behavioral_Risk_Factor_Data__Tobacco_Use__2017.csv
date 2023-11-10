@@ -1,0 +1,1435 @@
+YEAR,LocationDesc,TopicDesc,MeasureDesc,Response,Sample_Size,Gender,Race,Age,Education
+2017,Alabama,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,331,Overall,All Races,All Ages,All Grades
+2017,Alabama,Cigarette Use (Adults),Smoking Frequency,Some Days,611,Female,All Races,All Ages,All Grades
+2017,Alabama,E-Cigarette Use (Adults),Frequency of Use,Some Days,116,Female,All Races,All Ages,All Grades
+2017,Alabama,E-Cigarette Use (Adults),Frequency of Use,Every Day,116,Female,All Races,All Ages,All Grades
+2017,Alabama,Cigarette Use (Adults),Smoking Frequency,Every Day,532,Male,All Races,All Ages,All Grades
+2017,Alabama,E-Cigarette Use (Adults),Frequency of Use,Some Days,226,Overall,All Races,All Ages,All Grades
+2017,Alabama,E-Cigarette Use (Adults),Frequency of Use,Every Day,110,Male,All Races,All Ages,All Grades
+2017,Alabama,E-Cigarette Use (Adults),Frequency of Use,Some Days,110,Male,All Races,All Ages,All Grades
+2017,Alabama,Cigarette Use (Adults),Smoking Status,Current,2598,Male,All Races,All Ages,All Grades
+2017,Alabama,Cigarette Use (Adults),Smoking Frequency,Some Days,1143,Overall,All Races,All Ages,All Grades
+2017,Alabama,Smokeless Tobacco Use (Adults),User Status,Current,3888,Female,All Races,All Ages,All Grades
+2017,Alabama,Cigarette Use (Adults),Smoking Frequency,Every Day,611,Female,All Races,All Ages,All Grades
+2017,Alabama,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,59,Female,All Races,All Ages,All Grades
+2017,Alabama,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,59,Female,All Races,All Ages,All Grades
+2017,Alabama,Smokeless Tobacco Use (Adults),User Status,Current,6491,Overall,All Races,All Ages,All Grades
+2017,Alabama,E-Cigarette Use (Adults),Frequency of Use,Every Day,226,Overall,All Races,All Ages,All Grades
+2017,Alabama,Cigarette Use (Adults),Smoking Status,Current,3871,Female,All Races,All Ages,All Grades
+2017,Alabama,E-Cigarette Use (Adults),User Status,Current,6441,Overall,All Races,All Ages,All Grades
+2017,Alabama,Smokeless Tobacco Use (Adults),User Status,Current,2600,Male,All Races,All Ages,All Grades
+2017,Alabama,Cigarette Use (Adults),Smoking Status,Current,6472,Overall,All Races,All Ages,All Grades
+2017,Alabama,Cigarette Use (Adults),Smoking Frequency,Some Days,532,Male,All Races,All Ages,All Grades
+2017,Alabama,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,331,Overall,All Races,All Ages,All Grades
+2017,Alabama,E-Cigarette Use (Adults),User Status,Current,3855,Female,All Races,All Ages,All Grades
+2017,Alabama,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,272,Male,All Races,All Ages,All Grades
+2017,Alabama,Cigarette Use (Adults),Smoking Frequency,Every Day,1143,Overall,All Races,All Ages,All Grades
+2017,Alabama,E-Cigarette Use (Adults),User Status,Current,2582,Male,All Races,All Ages,All Grades
+2017,Alabama,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,272,Male,All Races,All Ages,All Grades
+2017,Alaska,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,149,Male,All Races,All Ages,All Grades
+2017,Alaska,E-Cigarette Use (Adults),Frequency of Use,Some Days,,Male,All Races,All Ages,All Grades
+2017,Alaska,Cigarette Use (Adults),Smoking Frequency,Every Day,538,Overall,All Races,All Ages,All Grades
+2017,Alaska,Cigarette Use (Adults),Smoking Frequency,Every Day,300,Male,All Races,All Ages,All Grades
+2017,Alaska,Cigarette Use (Adults),Smoking Frequency,Every Day,238,Female,All Races,All Ages,All Grades
+2017,Alaska,Cigarette Use (Adults),Smoking Status,Current,3084,Overall,All Races,All Ages,All Grades
+2017,Alaska,Cigarette Use (Adults),Smoking Frequency,Some Days,538,Overall,All Races,All Ages,All Grades
+2017,Alaska,Smokeless Tobacco Use (Adults),User Status,Current,1474,Male,All Races,All Ages,All Grades
+2017,Alaska,E-Cigarette Use (Adults),User Status,Current,1591,Female,All Races,All Ages,All Grades
+2017,Alaska,Smokeless Tobacco Use (Adults),User Status,Current,1597,Female,All Races,All Ages,All Grades
+2017,Alaska,E-Cigarette Use (Adults),Frequency of Use,Every Day,68,Overall,All Races,All Ages,All Grades
+2017,Alaska,E-Cigarette Use (Adults),User Status,Current,1486,Male,All Races,All Ages,All Grades
+2017,Alaska,E-Cigarette Use (Adults),Frequency of Use,Every Day,,Female,All Races,All Ages,All Grades
+2017,Alaska,E-Cigarette Use (Adults),Frequency of Use,Some Days,68,Overall,All Races,All Ages,All Grades
+2017,Alaska,Smokeless Tobacco Use (Adults),User Status,Current,3074,Overall,All Races,All Ages,All Grades
+2017,Alaska,E-Cigarette Use (Adults),Frequency of Use,Every Day,,Male,All Races,All Ages,All Grades
+2017,Alaska,Cigarette Use (Adults),Smoking Frequency,Some Days,238,Female,All Races,All Ages,All Grades
+2017,Alaska,Cigarette Use (Adults),Smoking Status,Current,1482,Male,All Races,All Ages,All Grades
+2017,Alaska,Cigarette Use (Adults),Smoking Frequency,Some Days,300,Male,All Races,All Ages,All Grades
+2017,Alaska,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,194,Overall,All Races,All Ages,All Grades
+2017,Alaska,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,194,Overall,All Races,All Ages,All Grades
+2017,Alaska,E-Cigarette Use (Adults),Frequency of Use,Some Days,,Female,All Races,All Ages,All Grades
+2017,Alaska,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,,Female,All Races,All Ages,All Grades
+2017,Alaska,Cigarette Use (Adults),Smoking Status,Current,1599,Female,All Races,All Ages,All Grades
+2017,Alaska,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,,Female,All Races,All Ages,All Grades
+2017,Alaska,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,149,Male,All Races,All Ages,All Grades
+2017,Alaska,E-Cigarette Use (Adults),User Status,Current,3080,Overall,All Races,All Ages,All Grades
+2017,Arizona,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,70,Female,All Races,All Ages,All Grades
+2017,Arizona,E-Cigarette Use (Adults),Frequency of Use,Every Day,307,Male,All Races,All Ages,All Grades
+2017,Arizona,E-Cigarette Use (Adults),Frequency of Use,Some Days,307,Male,All Races,All Ages,All Grades
+2017,Arizona,E-Cigarette Use (Adults),User Status,Current,8050,Female,All Races,All Ages,All Grades
+2017,Arizona,Cigarette Use (Adults),Smoking Frequency,Every Day,1972,Overall,All Races,All Ages,All Grades
+2017,Arizona,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,362,Overall,All Races,All Ages,All Grades
+2017,Arizona,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,292,Male,All Races,All Ages,All Grades
+2017,Arizona,Cigarette Use (Adults),Smoking Status,Current,6636,Male,All Races,All Ages,All Grades
+2017,Arizona,Cigarette Use (Adults),Smoking Frequency,Some Days,1972,Overall,All Races,All Ages,All Grades
+2017,Arizona,Smokeless Tobacco Use (Adults),User Status,Current,6646,Male,All Races,All Ages,All Grades
+2017,Arizona,E-Cigarette Use (Adults),Frequency of Use,Some Days,542,Overall,All Races,All Ages,All Grades
+2017,Arizona,E-Cigarette Use (Adults),Frequency of Use,Every Day,235,Female,All Races,All Ages,All Grades
+2017,Arizona,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,292,Male,All Races,All Ages,All Grades
+2017,Arizona,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,70,Female,All Races,All Ages,All Grades
+2017,Arizona,E-Cigarette Use (Adults),User Status,Current,14658,Overall,All Races,All Ages,All Grades
+2017,Arizona,Smokeless Tobacco Use (Adults),User Status,Current,8142,Female,All Races,All Ages,All Grades
+2017,Arizona,Cigarette Use (Adults),Smoking Frequency,Every Day,1012,Male,All Races,All Ages,All Grades
+2017,Arizona,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,362,Overall,All Races,All Ages,All Grades
+2017,Arizona,Cigarette Use (Adults),Smoking Frequency,Some Days,1012,Male,All Races,All Ages,All Grades
+2017,Arizona,Cigarette Use (Adults),Smoking Status,Current,14770,Overall,All Races,All Ages,All Grades
+2017,Arizona,E-Cigarette Use (Adults),Frequency of Use,Some Days,235,Female,All Races,All Ages,All Grades
+2017,Arizona,Smokeless Tobacco Use (Adults),User Status,Current,14812,Overall,All Races,All Ages,All Grades
+2017,Arizona,Cigarette Use (Adults),Smoking Frequency,Every Day,960,Female,All Races,All Ages,All Grades
+2017,Arizona,Cigarette Use (Adults),Smoking Status,Current,8109,Female,All Races,All Ages,All Grades
+2017,Arizona,E-Cigarette Use (Adults),User Status,Current,6584,Male,All Races,All Ages,All Grades
+2017,Arizona,E-Cigarette Use (Adults),Frequency of Use,Every Day,542,Overall,All Races,All Ages,All Grades
+2017,Arizona,Cigarette Use (Adults),Smoking Frequency,Some Days,960,Female,All Races,All Ages,All Grades
+2017,Arkansas,Cigarette Use (Adults),Smoking Frequency,Every Day,505,Female,All Races,All Ages,All Grades
+2017,Arkansas,E-Cigarette Use (Adults),Frequency of Use,Some Days,141,Overall,All Races,All Ages,All Grades
+2017,Arkansas,Smokeless Tobacco Use (Adults),User Status,Current,5111,Overall,All Races,All Ages,All Grades
+2017,Arkansas,E-Cigarette Use (Adults),User Status,Current,3251,Female,All Races,All Ages,All Grades
+2017,Arkansas,Cigarette Use (Adults),Smoking Status,Current,1816,Male,All Races,All Ages,All Grades
+2017,Arkansas,E-Cigarette Use (Adults),User Status,Current,1802,Male,All Races,All Ages,All Grades
+2017,Arkansas,E-Cigarette Use (Adults),Frequency of Use,Some Days,66,Male,All Races,All Ages,All Grades
+2017,Arkansas,E-Cigarette Use (Adults),Frequency of Use,Every Day,141,Overall,All Races,All Ages,All Grades
+2017,Arkansas,E-Cigarette Use (Adults),Frequency of Use,Every Day,75,Female,All Races,All Ages,All Grades
+2017,Arkansas,Cigarette Use (Adults),Smoking Frequency,Some Days,808,Overall,All Races,All Ages,All Grades
+2017,Arkansas,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,189,Overall,All Races,All Ages,All Grades
+2017,Arkansas,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,136,Male,All Races,All Ages,All Grades
+2017,Arkansas,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,136,Male,All Races,All Ages,All Grades
+2017,Arkansas,E-Cigarette Use (Adults),Frequency of Use,Every Day,66,Male,All Races,All Ages,All Grades
+2017,Arkansas,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,53,Female,All Races,All Ages,All Grades
+2017,Arkansas,Cigarette Use (Adults),Smoking Status,Current,5100,Overall,All Races,All Ages,All Grades
+2017,Arkansas,E-Cigarette Use (Adults),Frequency of Use,Some Days,75,Female,All Races,All Ages,All Grades
+2017,Arkansas,Cigarette Use (Adults),Smoking Frequency,Every Day,303,Male,All Races,All Ages,All Grades
+2017,Arkansas,Cigarette Use (Adults),Smoking Frequency,Some Days,505,Female,All Races,All Ages,All Grades
+2017,Arkansas,E-Cigarette Use (Adults),User Status,Current,5061,Overall,All Races,All Ages,All Grades
+2017,Arkansas,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,53,Female,All Races,All Ages,All Grades
+2017,Arkansas,Cigarette Use (Adults),Smoking Status,Current,3276,Female,All Races,All Ages,All Grades
+2017,Arkansas,Smokeless Tobacco Use (Adults),User Status,Current,1822,Male,All Races,All Ages,All Grades
+2017,Arkansas,Smokeless Tobacco Use (Adults),User Status,Current,3281,Female,All Races,All Ages,All Grades
+2017,Arkansas,Cigarette Use (Adults),Smoking Frequency,Some Days,303,Male,All Races,All Ages,All Grades
+2017,Arkansas,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,189,Overall,All Races,All Ages,All Grades
+2017,Arkansas,Cigarette Use (Adults),Smoking Frequency,Every Day,808,Overall,All Races,All Ages,All Grades
+2017,California,E-Cigarette Use (Adults),Frequency of Use,Some Days,267,Overall,All Races,All Ages,All Grades
+2017,California,Smokeless Tobacco Use (Adults),User Status,Current,8728,Overall,All Races,All Ages,All Grades
+2017,California,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,132,Overall,All Races,All Ages,All Grades
+2017,California,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,115,Male,All Races,All Ages,All Grades
+2017,California,Cigarette Use (Adults),Smoking Status,Current,4438,Female,All Races,All Ages,All Grades
+2017,California,E-Cigarette Use (Adults),Frequency of Use,Every Day,267,Overall,All Races,All Ages,All Grades
+2017,California,E-Cigarette Use (Adults),User Status,Current,4236,Male,All Races,All Ages,All Grades
+2017,California,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,115,Male,All Races,All Ages,All Grades
+2017,California,E-Cigarette Use (Adults),Frequency of Use,Some Days,95,Female,All Races,All Ages,All Grades
+2017,California,E-Cigarette Use (Adults),User Status,Current,4411,Female,All Races,All Ages,All Grades
+2017,California,Cigarette Use (Adults),Smoking Frequency,Every Day,372,Female,All Races,All Ages,All Grades
+2017,California,E-Cigarette Use (Adults),Frequency of Use,Every Day,95,Female,All Races,All Ages,All Grades
+2017,California,Cigarette Use (Adults),Smoking Frequency,Every Day,954,Overall,All Races,All Ages,All Grades
+2017,California,E-Cigarette Use (Adults),Frequency of Use,Some Days,172,Male,All Races,All Ages,All Grades
+2017,California,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,132,Overall,All Races,All Ages,All Grades
+2017,California,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,,Female,All Races,All Ages,All Grades
+2017,California,Cigarette Use (Adults),Smoking Frequency,Some Days,372,Female,All Races,All Ages,All Grades
+2017,California,Smokeless Tobacco Use (Adults),User Status,Current,4442,Female,All Races,All Ages,All Grades
+2017,California,Cigarette Use (Adults),Smoking Frequency,Every Day,582,Male,All Races,All Ages,All Grades
+2017,California,Cigarette Use (Adults),Smoking Frequency,Some Days,582,Male,All Races,All Ages,All Grades
+2017,California,E-Cigarette Use (Adults),User Status,Current,8649,Overall,All Races,All Ages,All Grades
+2017,California,Cigarette Use (Adults),Smoking Status,Current,8717,Overall,All Races,All Ages,All Grades
+2017,California,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,,Female,All Races,All Ages,All Grades
+2017,California,E-Cigarette Use (Adults),Frequency of Use,Every Day,172,Male,All Races,All Ages,All Grades
+2017,California,Cigarette Use (Adults),Smoking Status,Current,4277,Male,All Races,All Ages,All Grades
+2017,California,Cigarette Use (Adults),Smoking Frequency,Some Days,954,Overall,All Races,All Ages,All Grades
+2017,California,Smokeless Tobacco Use (Adults),User Status,Current,4284,Male,All Races,All Ages,All Grades
+2017,Colorado,E-Cigarette Use (Adults),Frequency of Use,Some Days,180,Male,All Races,All Ages,All Grades
+2017,Colorado,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,,Female,All Races,All Ages,All Grades
+2017,Colorado,E-Cigarette Use (Adults),Frequency of Use,Every Day,180,Male,All Races,All Ages,All Grades
+2017,Colorado,E-Cigarette Use (Adults),Frequency of Use,Every Day,324,Overall,All Races,All Ages,All Grades
+2017,Colorado,Cigarette Use (Adults),Smoking Frequency,Some Days,534,Female,All Races,All Ages,All Grades
+2017,Colorado,Cigarette Use (Adults),Smoking Status,Current,4144,Male,All Races,All Ages,All Grades
+2017,Colorado,E-Cigarette Use (Adults),Frequency of Use,Some Days,324,Overall,All Races,All Ages,All Grades
+2017,Colorado,Smokeless Tobacco Use (Adults),User Status,Current,4812,Female,All Races,All Ages,All Grades
+2017,Colorado,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,,Female,All Races,All Ages,All Grades
+2017,Colorado,Cigarette Use (Adults),Smoking Status,Current,4779,Female,All Races,All Ages,All Grades
+2017,Colorado,Smokeless Tobacco Use (Adults),User Status,Current,4165,Male,All Races,All Ages,All Grades
+2017,Colorado,Cigarette Use (Adults),Smoking Frequency,Every Day,534,Female,All Races,All Ages,All Grades
+2017,Colorado,E-Cigarette Use (Adults),User Status,Current,4770,Female,All Races,All Ages,All Grades
+2017,Colorado,E-Cigarette Use (Adults),User Status,Current,8906,Overall,All Races,All Ages,All Grades
+2017,Colorado,Cigarette Use (Adults),Smoking Frequency,Every Day,576,Male,All Races,All Ages,All Grades
+2017,Colorado,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,289,Overall,All Races,All Ages,All Grades
+2017,Colorado,Smokeless Tobacco Use (Adults),User Status,Current,8984,Overall,All Races,All Ages,All Grades
+2017,Colorado,E-Cigarette Use (Adults),Frequency of Use,Every Day,144,Female,All Races,All Ages,All Grades
+2017,Colorado,Cigarette Use (Adults),Smoking Status,Current,8930,Overall,All Races,All Ages,All Grades
+2017,Colorado,E-Cigarette Use (Adults),Frequency of Use,Some Days,144,Female,All Races,All Ages,All Grades
+2017,Colorado,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,254,Male,All Races,All Ages,All Grades
+2017,Colorado,Cigarette Use (Adults),Smoking Frequency,Some Days,1110,Overall,All Races,All Ages,All Grades
+2017,Colorado,E-Cigarette Use (Adults),User Status,Current,4129,Male,All Races,All Ages,All Grades
+2017,Colorado,Cigarette Use (Adults),Smoking Frequency,Every Day,1110,Overall,All Races,All Ages,All Grades
+2017,Colorado,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,289,Overall,All Races,All Ages,All Grades
+2017,Colorado,Cigarette Use (Adults),Smoking Frequency,Some Days,576,Male,All Races,All Ages,All Grades
+2017,Colorado,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,254,Male,All Races,All Ages,All Grades
+2017,Connecticut,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,,Female,All Races,All Ages,All Grades
+2017,Connecticut,E-Cigarette Use (Adults),Frequency of Use,Some Days,124,Male,All Races,All Ages,All Grades
+2017,Connecticut,Cigarette Use (Adults),Smoking Status,Current,10072,Overall,All Races,All Ages,All Grades
+2017,Connecticut,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,,Female,All Races,All Ages,All Grades
+2017,Connecticut,E-Cigarette Use (Adults),Frequency of Use,Some Days,229,Overall,All Races,All Ages,All Grades
+2017,Connecticut,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,91,Male,All Races,All Ages,All Grades
+2017,Connecticut,E-Cigarette Use (Adults),Frequency of Use,Every Day,105,Female,All Races,All Ages,All Grades
+2017,Connecticut,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,91,Male,All Races,All Ages,All Grades
+2017,Connecticut,Smokeless Tobacco Use (Adults),User Status,Current,10131,Overall,All Races,All Ages,All Grades
+2017,Connecticut,Cigarette Use (Adults),Smoking Frequency,Every Day,1063,Overall,All Races,All Ages,All Grades
+2017,Connecticut,Cigarette Use (Adults),Smoking Frequency,Every Day,505,Male,All Races,All Ages,All Grades
+2017,Connecticut,Cigarette Use (Adults),Smoking Frequency,Some Days,558,Female,All Races,All Ages,All Grades
+2017,Connecticut,Cigarette Use (Adults),Smoking Frequency,Every Day,558,Female,All Races,All Ages,All Grades
+2017,Connecticut,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,126,Overall,All Races,All Ages,All Grades
+2017,Connecticut,Smokeless Tobacco Use (Adults),User Status,Current,5714,Female,All Races,All Ages,All Grades
+2017,Connecticut,Cigarette Use (Adults),Smoking Status,Current,4378,Male,All Races,All Ages,All Grades
+2017,Connecticut,E-Cigarette Use (Adults),User Status,Current,5659,Female,All Races,All Ages,All Grades
+2017,Connecticut,E-Cigarette Use (Adults),User Status,Current,10025,Overall,All Races,All Ages,All Grades
+2017,Connecticut,E-Cigarette Use (Adults),Frequency of Use,Every Day,124,Male,All Races,All Ages,All Grades
+2017,Connecticut,E-Cigarette Use (Adults),Frequency of Use,Every Day,229,Overall,All Races,All Ages,All Grades
+2017,Connecticut,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,126,Overall,All Races,All Ages,All Grades
+2017,Connecticut,Smokeless Tobacco Use (Adults),User Status,Current,4401,Male,All Races,All Ages,All Grades
+2017,Connecticut,E-Cigarette Use (Adults),User Status,Current,4350,Male,All Races,All Ages,All Grades
+2017,Connecticut,Cigarette Use (Adults),Smoking Frequency,Some Days,505,Male,All Races,All Ages,All Grades
+2017,Connecticut,Cigarette Use (Adults),Smoking Status,Current,5679,Female,All Races,All Ages,All Grades
+2017,Connecticut,E-Cigarette Use (Adults),Frequency of Use,Some Days,105,Female,All Races,All Ages,All Grades
+2017,Connecticut,Cigarette Use (Adults),Smoking Frequency,Some Days,1063,Overall,All Races,All Ages,All Grades
+2017,Delaware,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,,Female,All Races,All Ages,All Grades
+2017,Delaware,Smokeless Tobacco Use (Adults),User Status,Current,2206,Female,All Races,All Ages,All Grades
+2017,Delaware,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,99,Overall,All Races,All Ages,All Grades
+2017,Delaware,Smokeless Tobacco Use (Adults),User Status,Current,3988,Overall,All Races,All Ages,All Grades
+2017,Delaware,Smokeless Tobacco Use (Adults),User Status,Current,1782,Male,All Races,All Ages,All Grades
+2017,Delaware,Cigarette Use (Adults),Smoking Frequency,Some Days,594,Overall,All Races,All Ages,All Grades
+2017,Delaware,E-Cigarette Use (Adults),Frequency of Use,Every Day,60,Female,All Races,All Ages,All Grades
+2017,Delaware,Cigarette Use (Adults),Smoking Frequency,Every Day,311,Female,All Races,All Ages,All Grades
+2017,Delaware,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,71,Male,All Races,All Ages,All Grades
+2017,Delaware,Cigarette Use (Adults),Smoking Status,Current,3959,Overall,All Races,All Ages,All Grades
+2017,Delaware,Cigarette Use (Adults),Smoking Status,Current,1768,Male,All Races,All Ages,All Grades
+2017,Delaware,Cigarette Use (Adults),Smoking Status,Current,2191,Female,All Races,All Ages,All Grades
+2017,Delaware,Cigarette Use (Adults),Smoking Frequency,Every Day,594,Overall,All Races,All Ages,All Grades
+2017,Delaware,Cigarette Use (Adults),Smoking Frequency,Some Days,311,Female,All Races,All Ages,All Grades
+2017,Delaware,E-Cigarette Use (Adults),User Status,Current,2184,Female,All Races,All Ages,All Grades
+2017,Delaware,Cigarette Use (Adults),Smoking Frequency,Every Day,283,Male,All Races,All Ages,All Grades
+2017,Delaware,E-Cigarette Use (Adults),User Status,Current,1768,Male,All Races,All Ages,All Grades
+2017,Delaware,E-Cigarette Use (Adults),User Status,Current,3952,Overall,All Races,All Ages,All Grades
+2017,Delaware,E-Cigarette Use (Adults),Frequency of Use,Some Days,139,Overall,All Races,All Ages,All Grades
+2017,Delaware,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,,Female,All Races,All Ages,All Grades
+2017,Delaware,E-Cigarette Use (Adults),Frequency of Use,Some Days,60,Female,All Races,All Ages,All Grades
+2017,Delaware,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,71,Male,All Races,All Ages,All Grades
+2017,Delaware,E-Cigarette Use (Adults),Frequency of Use,Every Day,79,Male,All Races,All Ages,All Grades
+2017,Delaware,E-Cigarette Use (Adults),Frequency of Use,Some Days,79,Male,All Races,All Ages,All Grades
+2017,Delaware,E-Cigarette Use (Adults),Frequency of Use,Every Day,139,Overall,All Races,All Ages,All Grades
+2017,Delaware,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,99,Overall,All Races,All Ages,All Grades
+2017,Delaware,Cigarette Use (Adults),Smoking Frequency,Some Days,283,Male,All Races,All Ages,All Grades
+2017,District of Columbia,Cigarette Use (Adults),Smoking Frequency,Every Day,281,Male,All Races,All Ages,All Grades
+2017,District of Columbia,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,,Male,All Races,All Ages,All Grades
+2017,District of Columbia,Cigarette Use (Adults),Smoking Status,Current,1582,Male,All Races,All Ages,All Grades
+2017,District of Columbia,Smokeless Tobacco Use (Adults),User Status,Current,1599,Male,All Races,All Ages,All Grades
+2017,District of Columbia,Cigarette Use (Adults),Smoking Status,Current,3748,Overall,All Races,All Ages,All Grades
+2017,District of Columbia,E-Cigarette Use (Adults),Frequency of Use,Every Day,,Female,All Races,All Ages,All Grades
+2017,District of Columbia,Cigarette Use (Adults),Smoking Frequency,Some Days,281,Male,All Races,All Ages,All Grades
+2017,District of Columbia,E-Cigarette Use (Adults),Frequency of Use,Some Days,66,Overall,All Races,All Ages,All Grades
+2017,District of Columbia,E-Cigarette Use (Adults),Frequency of Use,Every Day,66,Overall,All Races,All Ages,All Grades
+2017,District of Columbia,E-Cigarette Use (Adults),User Status,Current,2190,Female,All Races,All Ages,All Grades
+2017,District of Columbia,E-Cigarette Use (Adults),Frequency of Use,Some Days,,Male,All Races,All Ages,All Grades
+2017,District of Columbia,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,,Female,All Races,All Ages,All Grades
+2017,District of Columbia,Cigarette Use (Adults),Smoking Frequency,Every Day,276,Female,All Races,All Ages,All Grades
+2017,District of Columbia,E-Cigarette Use (Adults),Frequency of Use,Some Days,,Female,All Races,All Ages,All Grades
+2017,District of Columbia,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,,Overall,All Races,All Ages,All Grades
+2017,District of Columbia,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,,Male,All Races,All Ages,All Grades
+2017,District of Columbia,Cigarette Use (Adults),Smoking Frequency,Some Days,276,Female,All Races,All Ages,All Grades
+2017,District of Columbia,Cigarette Use (Adults),Smoking Status,Current,2164,Female,All Races,All Ages,All Grades
+2017,District of Columbia,E-Cigarette Use (Adults),User Status,Current,1594,Male,All Races,All Ages,All Grades
+2017,District of Columbia,E-Cigarette Use (Adults),Frequency of Use,Every Day,,Male,All Races,All Ages,All Grades
+2017,District of Columbia,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,,Female,All Races,All Ages,All Grades
+2017,District of Columbia,E-Cigarette Use (Adults),User Status,Current,3786,Overall,All Races,All Ages,All Grades
+2017,District of Columbia,Cigarette Use (Adults),Smoking Frequency,Every Day,557,Overall,All Races,All Ages,All Grades
+2017,District of Columbia,Smokeless Tobacco Use (Adults),User Status,Current,3800,Overall,All Races,All Ages,All Grades
+2017,District of Columbia,Smokeless Tobacco Use (Adults),User Status,Current,2199,Female,All Races,All Ages,All Grades
+2017,District of Columbia,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,,Overall,All Races,All Ages,All Grades
+2017,District of Columbia,Cigarette Use (Adults),Smoking Frequency,Some Days,557,Overall,All Races,All Ages,All Grades
+2017,Florida,Cigarette Use (Adults),Smoking Frequency,Every Day,3753,Overall,All Races,All Ages,All Grades
+2017,Florida,Cigarette Use (Adults),Smoking Status,Current,21035,Overall,All Races,All Ages,All Grades
+2017,Florida,Smokeless Tobacco Use (Adults),User Status,Current,9294,Male,All Races,All Ages,All Grades
+2017,Florida,E-Cigarette Use (Adults),Frequency of Use,Some Days,885,Overall,All Races,All Ages,All Grades
+2017,Florida,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,157,Female,All Races,All Ages,All Grades
+2017,Florida,E-Cigarette Use (Adults),Frequency of Use,Some Days,433,Male,All Races,All Ages,All Grades
+2017,Florida,Smokeless Tobacco Use (Adults),User Status,Current,21124,Overall,All Races,All Ages,All Grades
+2017,Florida,E-Cigarette Use (Adults),Frequency of Use,Some Days,452,Female,All Races,All Ages,All Grades
+2017,Florida,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,826,Overall,All Races,All Ages,All Grades
+2017,Florida,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,826,Overall,All Races,All Ages,All Grades
+2017,Florida,Cigarette Use (Adults),Smoking Frequency,Some Days,3753,Overall,All Races,All Ages,All Grades
+2017,Florida,E-Cigarette Use (Adults),Frequency of Use,Every Day,433,Male,All Races,All Ages,All Grades
+2017,Florida,Cigarette Use (Adults),Smoking Frequency,Some Days,1804,Male,All Races,All Ages,All Grades
+2017,Florida,Cigarette Use (Adults),Smoking Status,Current,9245,Male,All Races,All Ages,All Grades
+2017,Florida,E-Cigarette Use (Adults),Frequency of Use,Every Day,452,Female,All Races,All Ages,All Grades
+2017,Florida,Cigarette Use (Adults),Smoking Frequency,Some Days,1949,Female,All Races,All Ages,All Grades
+2017,Florida,E-Cigarette Use (Adults),Frequency of Use,Every Day,885,Overall,All Races,All Ages,All Grades
+2017,Florida,Smokeless Tobacco Use (Adults),User Status,Current,11830,Female,All Races,All Ages,All Grades
+2017,Florida,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,669,Male,All Races,All Ages,All Grades
+2017,Florida,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,157,Female,All Races,All Ages,All Grades
+2017,Florida,Cigarette Use (Adults),Smoking Frequency,Every Day,1949,Female,All Races,All Ages,All Grades
+2017,Florida,E-Cigarette Use (Adults),User Status,Current,11744,Female,All Races,All Ages,All Grades
+2017,Florida,E-Cigarette Use (Adults),User Status,Current,20982,Overall,All Races,All Ages,All Grades
+2017,Florida,Cigarette Use (Adults),Smoking Status,Current,11790,Female,All Races,All Ages,All Grades
+2017,Florida,E-Cigarette Use (Adults),User Status,Current,9238,Male,All Races,All Ages,All Grades
+2017,Florida,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,669,Male,All Races,All Ages,All Grades
+2017,Florida,Cigarette Use (Adults),Smoking Frequency,Every Day,1804,Male,All Races,All Ages,All Grades
+2017,Georgia,E-Cigarette Use (Adults),Frequency of Use,Some Days,189,Overall,All Races,All Ages,All Grades
+2017,Georgia,Cigarette Use (Adults),Smoking Frequency,Some Days,462,Male,All Races,All Ages,All Grades
+2017,Georgia,E-Cigarette Use (Adults),User Status,Current,5697,Overall,All Races,All Ages,All Grades
+2017,Georgia,E-Cigarette Use (Adults),User Status,Current,2461,Male,All Races,All Ages,All Grades
+2017,Georgia,E-Cigarette Use (Adults),Frequency of Use,Every Day,189,Overall,All Races,All Ages,All Grades
+2017,Georgia,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,58,Female,All Races,All Ages,All Grades
+2017,Georgia,E-Cigarette Use (Adults),Frequency of Use,Some Days,100,Male,All Races,All Ages,All Grades
+2017,Georgia,Smokeless Tobacco Use (Adults),User Status,Current,5744,Overall,All Races,All Ages,All Grades
+2017,Georgia,Smokeless Tobacco Use (Adults),User Status,Current,2478,Male,All Races,All Ages,All Grades
+2017,Georgia,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,221,Overall,All Races,All Ages,All Grades
+2017,Georgia,E-Cigarette Use (Adults),User Status,Current,3236,Female,All Races,All Ages,All Grades
+2017,Georgia,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,58,Female,All Races,All Ages,All Grades
+2017,Georgia,E-Cigarette Use (Adults),Frequency of Use,Every Day,100,Male,All Races,All Ages,All Grades
+2017,Georgia,Cigarette Use (Adults),Smoking Status,Current,2470,Male,All Races,All Ages,All Grades
+2017,Georgia,Cigarette Use (Adults),Smoking Frequency,Every Day,853,Overall,All Races,All Ages,All Grades
+2017,Georgia,Smokeless Tobacco Use (Adults),User Status,Current,3266,Female,All Races,All Ages,All Grades
+2017,Georgia,Cigarette Use (Adults),Smoking Frequency,Some Days,391,Female,All Races,All Ages,All Grades
+2017,Georgia,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,163,Male,All Races,All Ages,All Grades
+2017,Georgia,Cigarette Use (Adults),Smoking Frequency,Every Day,391,Female,All Races,All Ages,All Grades
+2017,Georgia,E-Cigarette Use (Adults),Frequency of Use,Every Day,89,Female,All Races,All Ages,All Grades
+2017,Georgia,Cigarette Use (Adults),Smoking Status,Current,3256,Female,All Races,All Ages,All Grades
+2017,Georgia,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,163,Male,All Races,All Ages,All Grades
+2017,Georgia,Cigarette Use (Adults),Smoking Status,Current,5726,Overall,All Races,All Ages,All Grades
+2017,Georgia,E-Cigarette Use (Adults),Frequency of Use,Some Days,89,Female,All Races,All Ages,All Grades
+2017,Georgia,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,221,Overall,All Races,All Ages,All Grades
+2017,Georgia,Cigarette Use (Adults),Smoking Frequency,Every Day,462,Male,All Races,All Ages,All Grades
+2017,Georgia,Cigarette Use (Adults),Smoking Frequency,Some Days,853,Overall,All Races,All Ages,All Grades
+2017,Guam,Smokeless Tobacco Use (Adults),User Status,Current,751,Female,All Races,All Ages,All Grades
+2017,Guam,Cigarette Use (Adults),Smoking Frequency,Some Days,176,Male,All Races,All Ages,All Grades
+2017,Guam,E-Cigarette Use (Adults),Frequency of Use,Every Day,,Male,All Races,All Ages,All Grades
+2017,Guam,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,70,Male,All Races,All Ages,All Grades
+2017,Guam,Smokeless Tobacco Use (Adults),User Status,Current,1443,Overall,All Races,All Ages,All Grades
+2017,Guam,E-Cigarette Use (Adults),User Status,Current,750,Female,All Races,All Ages,All Grades
+2017,Guam,Cigarette Use (Adults),Smoking Frequency,Some Days,150,Female,All Races,All Ages,All Grades
+2017,Guam,Cigarette Use (Adults),Smoking Frequency,Every Day,326,Overall,All Races,All Ages,All Grades
+2017,Guam,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,,Female,All Races,All Ages,All Grades
+2017,Guam,E-Cigarette Use (Adults),Frequency of Use,Every Day,76,Overall,All Races,All Ages,All Grades
+2017,Guam,E-Cigarette Use (Adults),User Status,Current,690,Male,All Races,All Ages,All Grades
+2017,Guam,Cigarette Use (Adults),Smoking Frequency,Every Day,176,Male,All Races,All Ages,All Grades
+2017,Guam,Cigarette Use (Adults),Smoking Frequency,Some Days,326,Overall,All Races,All Ages,All Grades
+2017,Guam,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,82,Overall,All Races,All Ages,All Grades
+2017,Guam,Cigarette Use (Adults),Smoking Status,Current,692,Male,All Races,All Ages,All Grades
+2017,Guam,Smokeless Tobacco Use (Adults),User Status,Current,692,Male,All Races,All Ages,All Grades
+2017,Guam,Cigarette Use (Adults),Smoking Status,Current,752,Female,All Races,All Ages,All Grades
+2017,Guam,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,70,Male,All Races,All Ages,All Grades
+2017,Guam,E-Cigarette Use (Adults),Frequency of Use,Every Day,,Female,All Races,All Ages,All Grades
+2017,Guam,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,,Female,All Races,All Ages,All Grades
+2017,Guam,E-Cigarette Use (Adults),Frequency of Use,Some Days,,Female,All Races,All Ages,All Grades
+2017,Guam,E-Cigarette Use (Adults),Frequency of Use,Some Days,,Male,All Races,All Ages,All Grades
+2017,Guam,E-Cigarette Use (Adults),User Status,Current,1440,Overall,All Races,All Ages,All Grades
+2017,Guam,Cigarette Use (Adults),Smoking Frequency,Every Day,150,Female,All Races,All Ages,All Grades
+2017,Guam,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,82,Overall,All Races,All Ages,All Grades
+2017,Guam,E-Cigarette Use (Adults),Frequency of Use,Some Days,76,Overall,All Races,All Ages,All Grades
+2017,Guam,Cigarette Use (Adults),Smoking Status,Current,1444,Overall,All Races,All Ages,All Grades
+2017,Hawaii,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,121,Male,All Races,All Ages,All Grades
+2017,Hawaii,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,121,Male,All Races,All Ages,All Grades
+2017,Hawaii,Cigarette Use (Adults),Smoking Frequency,Every Day,392,Female,All Races,All Ages,All Grades
+2017,Hawaii,Cigarette Use (Adults),Smoking Status,Current,7422,Overall,All Races,All Ages,All Grades
+2017,Hawaii,Cigarette Use (Adults),Smoking Status,Current,3914,Female,All Races,All Ages,All Grades
+2017,Hawaii,E-Cigarette Use (Adults),User Status,Current,3490,Male,All Races,All Ages,All Grades
+2017,Hawaii,E-Cigarette Use (Adults),Frequency of Use,Every Day,260,Overall,All Races,All Ages,All Grades
+2017,Hawaii,E-Cigarette Use (Adults),Frequency of Use,Some Days,165,Male,All Races,All Ages,All Grades
+2017,Hawaii,Smokeless Tobacco Use (Adults),User Status,Current,3508,Male,All Races,All Ages,All Grades
+2017,Hawaii,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,152,Overall,All Races,All Ages,All Grades
+2017,Hawaii,E-Cigarette Use (Adults),Frequency of Use,Some Days,260,Overall,All Races,All Ages,All Grades
+2017,Hawaii,Cigarette Use (Adults),Smoking Status,Current,3504,Male,All Races,All Ages,All Grades
+2017,Hawaii,E-Cigarette Use (Adults),User Status,Current,7376,Overall,All Races,All Ages,All Grades
+2017,Hawaii,Cigarette Use (Adults),Smoking Frequency,Every Day,498,Male,All Races,All Ages,All Grades
+2017,Hawaii,Cigarette Use (Adults),Smoking Frequency,Some Days,498,Male,All Races,All Ages,All Grades
+2017,Hawaii,E-Cigarette Use (Adults),Frequency of Use,Every Day,165,Male,All Races,All Ages,All Grades
+2017,Hawaii,Smokeless Tobacco Use (Adults),User Status,Current,7429,Overall,All Races,All Ages,All Grades
+2017,Hawaii,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,,Female,All Races,All Ages,All Grades
+2017,Hawaii,Cigarette Use (Adults),Smoking Frequency,Every Day,890,Overall,All Races,All Ages,All Grades
+2017,Hawaii,Cigarette Use (Adults),Smoking Frequency,Some Days,890,Overall,All Races,All Ages,All Grades
+2017,Hawaii,E-Cigarette Use (Adults),Frequency of Use,Every Day,95,Female,All Races,All Ages,All Grades
+2017,Hawaii,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,152,Overall,All Races,All Ages,All Grades
+2017,Hawaii,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,,Female,All Races,All Ages,All Grades
+2017,Hawaii,E-Cigarette Use (Adults),User Status,Current,3882,Female,All Races,All Ages,All Grades
+2017,Hawaii,E-Cigarette Use (Adults),Frequency of Use,Some Days,95,Female,All Races,All Ages,All Grades
+2017,Hawaii,Smokeless Tobacco Use (Adults),User Status,Current,3917,Female,All Races,All Ages,All Grades
+2017,Hawaii,Cigarette Use (Adults),Smoking Frequency,Some Days,392,Female,All Races,All Ages,All Grades
+2017,Idaho,Cigarette Use (Adults),Smoking Frequency,Some Days,291,Female,All Races,All Ages,All Grades
+2017,Idaho,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,,Female,All Races,All Ages,All Grades
+2017,Idaho,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,179,Male,All Races,All Ages,All Grades
+2017,Idaho,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,202,Overall,All Races,All Ages,All Grades
+2017,Idaho,E-Cigarette Use (Adults),Frequency of Use,Every Day,139,Overall,All Races,All Ages,All Grades
+2017,Idaho,Cigarette Use (Adults),Smoking Status,Current,2605,Female,All Races,All Ages,All Grades
+2017,Idaho,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,,Female,All Races,All Ages,All Grades
+2017,Idaho,E-Cigarette Use (Adults),Frequency of Use,Some Days,65,Male,All Races,All Ages,All Grades
+2017,Idaho,Smokeless Tobacco Use (Adults),User Status,Current,4745,Overall,All Races,All Ages,All Grades
+2017,Idaho,E-Cigarette Use (Adults),User Status,Current,4730,Overall,All Races,All Ages,All Grades
+2017,Idaho,Cigarette Use (Adults),Smoking Frequency,Some Days,284,Male,All Races,All Ages,All Grades
+2017,Idaho,Smokeless Tobacco Use (Adults),User Status,Current,2146,Male,All Races,All Ages,All Grades
+2017,Idaho,E-Cigarette Use (Adults),User Status,Current,2591,Female,All Races,All Ages,All Grades
+2017,Idaho,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,202,Overall,All Races,All Ages,All Grades
+2017,Idaho,E-Cigarette Use (Adults),Frequency of Use,Every Day,65,Male,All Races,All Ages,All Grades
+2017,Idaho,Cigarette Use (Adults),Smoking Frequency,Some Days,575,Overall,All Races,All Ages,All Grades
+2017,Idaho,E-Cigarette Use (Adults),User Status,Current,2138,Male,All Races,All Ages,All Grades
+2017,Idaho,E-Cigarette Use (Adults),Frequency of Use,Some Days,139,Overall,All Races,All Ages,All Grades
+2017,Idaho,Cigarette Use (Adults),Smoking Status,Current,4748,Overall,All Races,All Ages,All Grades
+2017,Idaho,E-Cigarette Use (Adults),Frequency of Use,Some Days,74,Female,All Races,All Ages,All Grades
+2017,Idaho,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,179,Male,All Races,All Ages,All Grades
+2017,Idaho,Smokeless Tobacco Use (Adults),User Status,Current,2597,Female,All Races,All Ages,All Grades
+2017,Idaho,Cigarette Use (Adults),Smoking Frequency,Every Day,575,Overall,All Races,All Ages,All Grades
+2017,Idaho,Cigarette Use (Adults),Smoking Frequency,Every Day,284,Male,All Races,All Ages,All Grades
+2017,Idaho,Cigarette Use (Adults),Smoking Frequency,Every Day,291,Female,All Races,All Ages,All Grades
+2017,Idaho,Cigarette Use (Adults),Smoking Status,Current,2141,Male,All Races,All Ages,All Grades
+2017,Idaho,E-Cigarette Use (Adults),Frequency of Use,Every Day,74,Female,All Races,All Ages,All Grades
+2017,Illinois,E-Cigarette Use (Adults),User Status,Current,2931,Female,All Races,All Ages,All Grades
+2017,Illinois,Cigarette Use (Adults),Smoking Frequency,Some Days,348,Female,All Races,All Ages,All Grades
+2017,Illinois,E-Cigarette Use (Adults),Frequency of Use,Some Days,154,Overall,All Races,All Ages,All Grades
+2017,Illinois,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,113,Overall,All Races,All Ages,All Grades
+2017,Illinois,E-Cigarette Use (Adults),Frequency of Use,Some Days,76,Female,All Races,All Ages,All Grades
+2017,Illinois,Smokeless Tobacco Use (Adults),User Status,Current,2385,Male,All Races,All Ages,All Grades
+2017,Illinois,Smokeless Tobacco Use (Adults),User Status,Current,5344,Overall,All Races,All Ages,All Grades
+2017,Illinois,Cigarette Use (Adults),Smoking Frequency,Some Days,345,Male,All Races,All Ages,All Grades
+2017,Illinois,Cigarette Use (Adults),Smoking Status,Current,2385,Male,All Races,All Ages,All Grades
+2017,Illinois,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,85,Male,All Races,All Ages,All Grades
+2017,Illinois,Cigarette Use (Adults),Smoking Status,Current,5345,Overall,All Races,All Ages,All Grades
+2017,Illinois,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,,Female,All Races,All Ages,All Grades
+2017,Illinois,E-Cigarette Use (Adults),Frequency of Use,Every Day,76,Female,All Races,All Ages,All Grades
+2017,Illinois,E-Cigarette Use (Adults),Frequency of Use,Some Days,78,Male,All Races,All Ages,All Grades
+2017,Illinois,Cigarette Use (Adults),Smoking Frequency,Every Day,693,Overall,All Races,All Ages,All Grades
+2017,Illinois,Cigarette Use (Adults),Smoking Frequency,Every Day,345,Male,All Races,All Ages,All Grades
+2017,Illinois,Smokeless Tobacco Use (Adults),User Status,Current,2958,Female,All Races,All Ages,All Grades
+2017,Illinois,E-Cigarette Use (Adults),Frequency of Use,Every Day,78,Male,All Races,All Ages,All Grades
+2017,Illinois,Cigarette Use (Adults),Smoking Frequency,Every Day,348,Female,All Races,All Ages,All Grades
+2017,Illinois,Cigarette Use (Adults),Smoking Status,Current,2959,Female,All Races,All Ages,All Grades
+2017,Illinois,E-Cigarette Use (Adults),User Status,Current,5300,Overall,All Races,All Ages,All Grades
+2017,Illinois,Cigarette Use (Adults),Smoking Frequency,Some Days,693,Overall,All Races,All Ages,All Grades
+2017,Illinois,E-Cigarette Use (Adults),User Status,Current,2368,Male,All Races,All Ages,All Grades
+2017,Illinois,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,85,Male,All Races,All Ages,All Grades
+2017,Illinois,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,,Female,All Races,All Ages,All Grades
+2017,Illinois,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,113,Overall,All Races,All Ages,All Grades
+2017,Illinois,E-Cigarette Use (Adults),Frequency of Use,Every Day,154,Overall,All Races,All Ages,All Grades
+2017,Indiana,Cigarette Use (Adults),Smoking Frequency,Every Day,2310,Overall,All Races,All Ages,All Grades
+2017,Indiana,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,71,Female,All Races,All Ages,All Grades
+2017,Indiana,E-Cigarette Use (Adults),Frequency of Use,Every Day,497,Overall,All Races,All Ages,All Grades
+2017,Indiana,E-Cigarette Use (Adults),Frequency of Use,Some Days,240,Male,All Races,All Ages,All Grades
+2017,Indiana,Smokeless Tobacco Use (Adults),User Status,Current,5678,Male,All Races,All Ages,All Grades
+2017,Indiana,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,379,Male,All Races,All Ages,All Grades
+2017,Indiana,Cigarette Use (Adults),Smoking Status,Current,13261,Overall,All Races,All Ages,All Grades
+2017,Indiana,E-Cigarette Use (Adults),Frequency of Use,Every Day,240,Male,All Races,All Ages,All Grades
+2017,Indiana,E-Cigarette Use (Adults),Frequency of Use,Some Days,497,Overall,All Races,All Ages,All Grades
+2017,Indiana,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,379,Male,All Races,All Ages,All Grades
+2017,Indiana,Cigarette Use (Adults),Smoking Frequency,Some Days,1232,Female,All Races,All Ages,All Grades
+2017,Indiana,Smokeless Tobacco Use (Adults),User Status,Current,13233,Overall,All Races,All Ages,All Grades
+2017,Indiana,Cigarette Use (Adults),Smoking Status,Current,7576,Female,All Races,All Ages,All Grades
+2017,Indiana,E-Cigarette Use (Adults),User Status,Current,13147,Overall,All Races,All Ages,All Grades
+2017,Indiana,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,450,Overall,All Races,All Ages,All Grades
+2017,Indiana,E-Cigarette Use (Adults),Frequency of Use,Every Day,257,Female,All Races,All Ages,All Grades
+2017,Indiana,Cigarette Use (Adults),Smoking Frequency,Some Days,2310,Overall,All Races,All Ages,All Grades
+2017,Indiana,Cigarette Use (Adults),Smoking Frequency,Every Day,1078,Male,All Races,All Ages,All Grades
+2017,Indiana,Cigarette Use (Adults),Smoking Frequency,Every Day,1232,Female,All Races,All Ages,All Grades
+2017,Indiana,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,450,Overall,All Races,All Ages,All Grades
+2017,Indiana,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,71,Female,All Races,All Ages,All Grades
+2017,Indiana,E-Cigarette Use (Adults),Frequency of Use,Some Days,257,Female,All Races,All Ages,All Grades
+2017,Indiana,Smokeless Tobacco Use (Adults),User Status,Current,7548,Female,All Races,All Ages,All Grades
+2017,Indiana,Cigarette Use (Adults),Smoking Frequency,Some Days,1078,Male,All Races,All Ages,All Grades
+2017,Indiana,E-Cigarette Use (Adults),User Status,Current,7503,Female,All Races,All Ages,All Grades
+2017,Indiana,E-Cigarette Use (Adults),User Status,Current,5636,Male,All Races,All Ages,All Grades
+2017,Indiana,Cigarette Use (Adults),Smoking Status,Current,5678,Male,All Races,All Ages,All Grades
+2017,Iowa,Cigarette Use (Adults),Smoking Status,Current,3915,Female,All Races,All Ages,All Grades
+2017,Iowa,E-Cigarette Use (Adults),User Status,Current,7347,Overall,All Races,All Ages,All Grades
+2017,Iowa,Cigarette Use (Adults),Smoking Frequency,Every Day,547,Female,All Races,All Ages,All Grades
+2017,Iowa,E-Cigarette Use (Adults),Frequency of Use,Some Days,228,Overall,All Races,All Ages,All Grades
+2017,Iowa,E-Cigarette Use (Adults),User Status,Current,3860,Female,All Races,All Ages,All Grades
+2017,Iowa,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,,Female,All Races,All Ages,All Grades
+2017,Iowa,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,302,Male,All Races,All Ages,All Grades
+2017,Iowa,Cigarette Use (Adults),Smoking Frequency,Some Days,547,Female,All Races,All Ages,All Grades
+2017,Iowa,E-Cigarette Use (Adults),Frequency of Use,Every Day,85,Female,All Races,All Ages,All Grades
+2017,Iowa,Cigarette Use (Adults),Smoking Frequency,Every Day,582,Male,All Races,All Ages,All Grades
+2017,Iowa,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,329,Overall,All Races,All Ages,All Grades
+2017,Iowa,Smokeless Tobacco Use (Adults),User Status,Current,7451,Overall,All Races,All Ages,All Grades
+2017,Iowa,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,,Female,All Races,All Ages,All Grades
+2017,Iowa,E-Cigarette Use (Adults),Frequency of Use,Some Days,143,Male,All Races,All Ages,All Grades
+2017,Iowa,Cigarette Use (Adults),Smoking Frequency,Some Days,1129,Overall,All Races,All Ages,All Grades
+2017,Iowa,E-Cigarette Use (Adults),Frequency of Use,Every Day,228,Overall,All Races,All Ages,All Grades
+2017,Iowa,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,302,Male,All Races,All Ages,All Grades
+2017,Iowa,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,329,Overall,All Races,All Ages,All Grades
+2017,Iowa,E-Cigarette Use (Adults),Frequency of Use,Every Day,143,Male,All Races,All Ages,All Grades
+2017,Iowa,E-Cigarette Use (Adults),Frequency of Use,Some Days,85,Female,All Races,All Ages,All Grades
+2017,Iowa,Cigarette Use (Adults),Smoking Status,Current,3514,Male,All Races,All Ages,All Grades
+2017,Iowa,Cigarette Use (Adults),Smoking Frequency,Every Day,1129,Overall,All Races,All Ages,All Grades
+2017,Iowa,Cigarette Use (Adults),Smoking Status,Current,7437,Overall,All Races,All Ages,All Grades
+2017,Iowa,Cigarette Use (Adults),Smoking Frequency,Some Days,582,Male,All Races,All Ages,All Grades
+2017,Iowa,E-Cigarette Use (Adults),User Status,Current,3480,Male,All Races,All Ages,All Grades
+2017,Iowa,Smokeless Tobacco Use (Adults),User Status,Current,3524,Male,All Races,All Ages,All Grades
+2017,Iowa,Smokeless Tobacco Use (Adults),User Status,Current,3920,Female,All Races,All Ages,All Grades
+2017,Kansas,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,1009,Overall,All Races,All Ages,All Grades
+2017,Kansas,Smokeless Tobacco Use (Adults),User Status,Current,9724,Male,All Races,All Ages,All Grades
+2017,Kansas,E-Cigarette Use (Adults),Frequency of Use,Every Day,383,Male,All Races,All Ages,All Grades
+2017,Kansas,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,917,Male,All Races,All Ages,All Grades
+2017,Kansas,Cigarette Use (Adults),Smoking Frequency,Every Day,3138,Overall,All Races,All Ages,All Grades
+2017,Kansas,E-Cigarette Use (Adults),Frequency of Use,Some Days,678,Overall,All Races,All Ages,All Grades
+2017,Kansas,Cigarette Use (Adults),Smoking Frequency,Some Days,1584,Female,All Races,All Ages,All Grades
+2017,Kansas,Smokeless Tobacco Use (Adults),User Status,Current,11059,Female,All Races,All Ages,All Grades
+2017,Kansas,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,92,Female,All Races,All Ages,All Grades
+2017,Kansas,E-Cigarette Use (Adults),Frequency of Use,Every Day,678,Overall,All Races,All Ages,All Grades
+2017,Kansas,E-Cigarette Use (Adults),Frequency of Use,Some Days,295,Female,All Races,All Ages,All Grades
+2017,Kansas,E-Cigarette Use (Adults),User Status,Current,9653,Male,All Races,All Ages,All Grades
+2017,Kansas,E-Cigarette Use (Adults),User Status,Current,20607,Overall,All Races,All Ages,All Grades
+2017,Kansas,Cigarette Use (Adults),Smoking Frequency,Some Days,3138,Overall,All Races,All Ages,All Grades
+2017,Kansas,Cigarette Use (Adults),Smoking Frequency,Some Days,1554,Male,All Races,All Ages,All Grades
+2017,Kansas,Cigarette Use (Adults),Smoking Status,Current,9683,Male,All Races,All Ages,All Grades
+2017,Kansas,Cigarette Use (Adults),Smoking Frequency,Every Day,1554,Male,All Races,All Ages,All Grades
+2017,Kansas,Cigarette Use (Adults),Smoking Status,Current,20693,Overall,All Races,All Ages,All Grades
+2017,Kansas,E-Cigarette Use (Adults),User Status,Current,10941,Female,All Races,All Ages,All Grades
+2017,Kansas,Smokeless Tobacco Use (Adults),User Status,Current,20795,Overall,All Races,All Ages,All Grades
+2017,Kansas,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,917,Male,All Races,All Ages,All Grades
+2017,Kansas,Cigarette Use (Adults),Smoking Frequency,Every Day,1584,Female,All Races,All Ages,All Grades
+2017,Kansas,Cigarette Use (Adults),Smoking Status,Current,10997,Female,All Races,All Ages,All Grades
+2017,Kansas,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,1009,Overall,All Races,All Ages,All Grades
+2017,Kansas,E-Cigarette Use (Adults),Frequency of Use,Some Days,383,Male,All Races,All Ages,All Grades
+2017,Kansas,E-Cigarette Use (Adults),Frequency of Use,Every Day,295,Female,All Races,All Ages,All Grades
+2017,Kansas,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,92,Female,All Races,All Ages,All Grades
+2017,Kentucky,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,515,Overall,All Races,All Ages,All Grades
+2017,Kentucky,Cigarette Use (Adults),Smoking Frequency,Some Days,917,Female,All Races,All Ages,All Grades
+2017,Kentucky,E-Cigarette Use (Adults),Frequency of Use,Every Day,170,Male,All Races,All Ages,All Grades
+2017,Kentucky,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,515,Overall,All Races,All Ages,All Grades
+2017,Kentucky,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,459,Male,All Races,All Ages,All Grades
+2017,Kentucky,E-Cigarette Use (Adults),User Status,Current,8328,Overall,All Races,All Ages,All Grades
+2017,Kentucky,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,459,Male,All Races,All Ages,All Grades
+2017,Kentucky,Cigarette Use (Adults),Smoking Frequency,Some Days,831,Male,All Races,All Ages,All Grades
+2017,Kentucky,E-Cigarette Use (Adults),Frequency of Use,Every Day,183,Female,All Races,All Ages,All Grades
+2017,Kentucky,E-Cigarette Use (Adults),Frequency of Use,Some Days,353,Overall,All Races,All Ages,All Grades
+2017,Kentucky,E-Cigarette Use (Adults),Frequency of Use,Some Days,183,Female,All Races,All Ages,All Grades
+2017,Kentucky,E-Cigarette Use (Adults),User Status,Current,4816,Female,All Races,All Ages,All Grades
+2017,Kentucky,Cigarette Use (Adults),Smoking Status,Current,3505,Male,All Races,All Ages,All Grades
+2017,Kentucky,Cigarette Use (Adults),Smoking Frequency,Every Day,831,Male,All Races,All Ages,All Grades
+2017,Kentucky,Cigarette Use (Adults),Smoking Status,Current,4835,Female,All Races,All Ages,All Grades
+2017,Kentucky,Smokeless Tobacco Use (Adults),User Status,Current,3516,Male,All Races,All Ages,All Grades
+2017,Kentucky,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,56,Female,All Races,All Ages,All Grades
+2017,Kentucky,Smokeless Tobacco Use (Adults),User Status,Current,4849,Female,All Races,All Ages,All Grades
+2017,Kentucky,Smokeless Tobacco Use (Adults),User Status,Current,8370,Overall,All Races,All Ages,All Grades
+2017,Kentucky,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,56,Female,All Races,All Ages,All Grades
+2017,Kentucky,E-Cigarette Use (Adults),Frequency of Use,Every Day,353,Overall,All Races,All Ages,All Grades
+2017,Kentucky,Cigarette Use (Adults),Smoking Frequency,Some Days,1748,Overall,All Races,All Ages,All Grades
+2017,Kentucky,E-Cigarette Use (Adults),Frequency of Use,Some Days,170,Male,All Races,All Ages,All Grades
+2017,Kentucky,Cigarette Use (Adults),Smoking Status,Current,8345,Overall,All Races,All Ages,All Grades
+2017,Kentucky,Cigarette Use (Adults),Smoking Frequency,Every Day,1748,Overall,All Races,All Ages,All Grades
+2017,Kentucky,E-Cigarette Use (Adults),User Status,Current,3507,Male,All Races,All Ages,All Grades
+2017,Kentucky,Cigarette Use (Adults),Smoking Frequency,Every Day,917,Female,All Races,All Ages,All Grades
+2017,Louisiana,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,,Female,All Races,All Ages,All Grades
+2017,Louisiana,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,244,Overall,All Races,All Ages,All Grades
+2017,Louisiana,Cigarette Use (Adults),Smoking Frequency,Some Days,479,Female,All Races,All Ages,All Grades
+2017,Louisiana,E-Cigarette Use (Adults),Frequency of Use,Some Days,87,Male,All Races,All Ages,All Grades
+2017,Louisiana,Cigarette Use (Adults),Smoking Frequency,Every Day,904,Overall,All Races,All Ages,All Grades
+2017,Louisiana,E-Cigarette Use (Adults),Frequency of Use,Every Day,75,Female,All Races,All Ages,All Grades
+2017,Louisiana,Smokeless Tobacco Use (Adults),User Status,Current,2634,Female,All Races,All Ages,All Grades
+2017,Louisiana,E-Cigarette Use (Adults),Frequency of Use,Every Day,162,Overall,All Races,All Ages,All Grades
+2017,Louisiana,Cigarette Use (Adults),Smoking Frequency,Every Day,479,Female,All Races,All Ages,All Grades
+2017,Louisiana,E-Cigarette Use (Adults),User Status,Current,2598,Female,All Races,All Ages,All Grades
+2017,Louisiana,Cigarette Use (Adults),Smoking Status,Current,1897,Male,All Races,All Ages,All Grades
+2017,Louisiana,Cigarette Use (Adults),Smoking Frequency,Every Day,425,Male,All Races,All Ages,All Grades
+2017,Louisiana,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,207,Male,All Races,All Ages,All Grades
+2017,Louisiana,E-Cigarette Use (Adults),Frequency of Use,Some Days,162,Overall,All Races,All Ages,All Grades
+2017,Louisiana,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,207,Male,All Races,All Ages,All Grades
+2017,Louisiana,Smokeless Tobacco Use (Adults),User Status,Current,1899,Male,All Races,All Ages,All Grades
+2017,Louisiana,Cigarette Use (Adults),Smoking Frequency,Some Days,425,Male,All Races,All Ages,All Grades
+2017,Louisiana,E-Cigarette Use (Adults),User Status,Current,4488,Overall,All Races,All Ages,All Grades
+2017,Louisiana,E-Cigarette Use (Adults),Frequency of Use,Every Day,87,Male,All Races,All Ages,All Grades
+2017,Louisiana,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,244,Overall,All Races,All Ages,All Grades
+2017,Louisiana,Smokeless Tobacco Use (Adults),User Status,Current,4535,Overall,All Races,All Ages,All Grades
+2017,Louisiana,E-Cigarette Use (Adults),User Status,Current,1888,Male,All Races,All Ages,All Grades
+2017,Louisiana,Cigarette Use (Adults),Smoking Status,Current,4534,Overall,All Races,All Ages,All Grades
+2017,Louisiana,Cigarette Use (Adults),Smoking Status,Current,2635,Female,All Races,All Ages,All Grades
+2017,Louisiana,Cigarette Use (Adults),Smoking Frequency,Some Days,904,Overall,All Races,All Ages,All Grades
+2017,Louisiana,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,,Female,All Races,All Ages,All Grades
+2017,Louisiana,E-Cigarette Use (Adults),Frequency of Use,Some Days,75,Female,All Races,All Ages,All Grades
+2017,Maine,Cigarette Use (Adults),Smoking Frequency,Some Days,1351,Overall,All Races,All Ages,All Grades
+2017,Maine,E-Cigarette Use (Adults),Frequency of Use,Some Days,121,Female,All Races,All Ages,All Grades
+2017,Maine,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,,Female,All Races,All Ages,All Grades
+2017,Maine,E-Cigarette Use (Adults),User Status,Current,5309,Female,All Races,All Ages,All Grades
+2017,Maine,E-Cigarette Use (Adults),User Status,Current,3977,Male,All Races,All Ages,All Grades
+2017,Maine,E-Cigarette Use (Adults),Frequency of Use,Every Day,119,Male,All Races,All Ages,All Grades
+2017,Maine,Cigarette Use (Adults),Smoking Frequency,Every Day,683,Female,All Races,All Ages,All Grades
+2017,Maine,Smokeless Tobacco Use (Adults),User Status,Current,5308,Female,All Races,All Ages,All Grades
+2017,Maine,Smokeless Tobacco Use (Adults),User Status,Current,9284,Overall,All Races,All Ages,All Grades
+2017,Maine,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,191,Overall,All Races,All Ages,All Grades
+2017,Maine,Cigarette Use (Adults),Smoking Frequency,Every Day,1351,Overall,All Races,All Ages,All Grades
+2017,Maine,Smokeless Tobacco Use (Adults),User Status,Current,3975,Male,All Races,All Ages,All Grades
+2017,Maine,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,,Female,All Races,All Ages,All Grades
+2017,Maine,Cigarette Use (Adults),Smoking Status,Current,3989,Male,All Races,All Ages,All Grades
+2017,Maine,Cigarette Use (Adults),Smoking Frequency,Every Day,668,Male,All Races,All Ages,All Grades
+2017,Maine,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,167,Male,All Races,All Ages,All Grades
+2017,Maine,Cigarette Use (Adults),Smoking Status,Current,9326,Overall,All Races,All Ages,All Grades
+2017,Maine,E-Cigarette Use (Adults),Frequency of Use,Some Days,240,Overall,All Races,All Ages,All Grades
+2017,Maine,E-Cigarette Use (Adults),Frequency of Use,Every Day,121,Female,All Races,All Ages,All Grades
+2017,Maine,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,191,Overall,All Races,All Ages,All Grades
+2017,Maine,Cigarette Use (Adults),Smoking Frequency,Some Days,668,Male,All Races,All Ages,All Grades
+2017,Maine,E-Cigarette Use (Adults),User Status,Current,9287,Overall,All Races,All Ages,All Grades
+2017,Maine,E-Cigarette Use (Adults),Frequency of Use,Some Days,119,Male,All Races,All Ages,All Grades
+2017,Maine,E-Cigarette Use (Adults),Frequency of Use,Every Day,240,Overall,All Races,All Ages,All Grades
+2017,Maine,Cigarette Use (Adults),Smoking Status,Current,5336,Female,All Races,All Ages,All Grades
+2017,Maine,Cigarette Use (Adults),Smoking Frequency,Some Days,683,Female,All Races,All Ages,All Grades
+2017,Maine,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,167,Male,All Races,All Ages,All Grades
+2017,Maryland,Cigarette Use (Adults),Smoking Frequency,Some Days,1513,Overall,All Races,All Ages,All Grades
+2017,Maryland,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,136,Male,All Races,All Ages,All Grades
+2017,Maryland,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,,Female,All Races,All Ages,All Grades
+2017,Maryland,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,136,Male,All Races,All Ages,All Grades
+2017,Maryland,E-Cigarette Use (Adults),Frequency of Use,Some Days,275,Overall,All Races,All Ages,All Grades
+2017,Maryland,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,154,Overall,All Races,All Ages,All Grades
+2017,Maryland,E-Cigarette Use (Adults),User Status,Current,12744,Overall,All Races,All Ages,All Grades
+2017,Maryland,E-Cigarette Use (Adults),Frequency of Use,Every Day,136,Female,All Races,All Ages,All Grades
+2017,Maryland,Smokeless Tobacco Use (Adults),User Status,Current,13029,Overall,All Races,All Ages,All Grades
+2017,Maryland,Cigarette Use (Adults),Smoking Frequency,Some Days,850,Female,All Races,All Ages,All Grades
+2017,Maryland,Cigarette Use (Adults),Smoking Frequency,Every Day,1513,Overall,All Races,All Ages,All Grades
+2017,Maryland,Smokeless Tobacco Use (Adults),User Status,Current,7695,Female,All Races,All Ages,All Grades
+2017,Maryland,E-Cigarette Use (Adults),Frequency of Use,Some Days,136,Female,All Races,All Ages,All Grades
+2017,Maryland,E-Cigarette Use (Adults),User Status,Current,7509,Female,All Races,All Ages,All Grades
+2017,Maryland,E-Cigarette Use (Adults),Frequency of Use,Every Day,139,Male,All Races,All Ages,All Grades
+2017,Maryland,Cigarette Use (Adults),Smoking Status,Current,12944,Overall,All Races,All Ages,All Grades
+2017,Maryland,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,,Female,All Races,All Ages,All Grades
+2017,Maryland,E-Cigarette Use (Adults),User Status,Current,5219,Male,All Races,All Ages,All Grades
+2017,Maryland,Cigarette Use (Adults),Smoking Frequency,Some Days,663,Male,All Races,All Ages,All Grades
+2017,Maryland,Cigarette Use (Adults),Smoking Status,Current,5287,Male,All Races,All Ages,All Grades
+2017,Maryland,Cigarette Use (Adults),Smoking Frequency,Every Day,850,Female,All Races,All Ages,All Grades
+2017,Maryland,Smokeless Tobacco Use (Adults),User Status,Current,5317,Male,All Races,All Ages,All Grades
+2017,Maryland,Cigarette Use (Adults),Smoking Status,Current,7642,Female,All Races,All Ages,All Grades
+2017,Maryland,Cigarette Use (Adults),Smoking Frequency,Every Day,663,Male,All Races,All Ages,All Grades
+2017,Maryland,E-Cigarette Use (Adults),Frequency of Use,Every Day,275,Overall,All Races,All Ages,All Grades
+2017,Maryland,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,154,Overall,All Races,All Ages,All Grades
+2017,Maryland,E-Cigarette Use (Adults),Frequency of Use,Some Days,139,Male,All Races,All Ages,All Grades
+2017,Massachusetts,Smokeless Tobacco Use (Adults),User Status,Current,2998,Male,All Races,All Ages,All Grades
+2017,Massachusetts,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,79,Male,All Races,All Ages,All Grades
+2017,Massachusetts,E-Cigarette Use (Adults),User Status,Current,2984,Male,All Races,All Ages,All Grades
+2017,Massachusetts,E-Cigarette Use (Adults),User Status,Current,6649,Overall,All Races,All Ages,All Grades
+2017,Massachusetts,E-Cigarette Use (Adults),Frequency of Use,Every Day,98,Male,All Races,All Ages,All Grades
+2017,Massachusetts,Cigarette Use (Adults),Smoking Frequency,Some Days,765,Overall,All Races,All Ages,All Grades
+2017,Massachusetts,E-Cigarette Use (Adults),Frequency of Use,Every Day,67,Female,All Races,All Ages,All Grades
+2017,Massachusetts,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,,Female,All Races,All Ages,All Grades
+2017,Massachusetts,Smokeless Tobacco Use (Adults),User Status,Current,3699,Female,All Races,All Ages,All Grades
+2017,Massachusetts,E-Cigarette Use (Adults),Frequency of Use,Some Days,67,Female,All Races,All Ages,All Grades
+2017,Massachusetts,E-Cigarette Use (Adults),Frequency of Use,Some Days,165,Overall,All Races,All Ages,All Grades
+2017,Massachusetts,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,100,Overall,All Races,All Ages,All Grades
+2017,Massachusetts,Cigarette Use (Adults),Smoking Frequency,Some Days,388,Female,All Races,All Ages,All Grades
+2017,Massachusetts,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,100,Overall,All Races,All Ages,All Grades
+2017,Massachusetts,Cigarette Use (Adults),Smoking Frequency,Every Day,377,Male,All Races,All Ages,All Grades
+2017,Massachusetts,E-Cigarette Use (Adults),Frequency of Use,Some Days,98,Male,All Races,All Ages,All Grades
+2017,Massachusetts,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,79,Male,All Races,All Ages,All Grades
+2017,Massachusetts,E-Cigarette Use (Adults),Frequency of Use,Every Day,165,Overall,All Races,All Ages,All Grades
+2017,Massachusetts,E-Cigarette Use (Adults),User Status,Current,3658,Female,All Races,All Ages,All Grades
+2017,Massachusetts,Cigarette Use (Adults),Smoking Status,Current,2987,Male,All Races,All Ages,All Grades
+2017,Massachusetts,Cigarette Use (Adults),Smoking Frequency,Every Day,765,Overall,All Races,All Ages,All Grades
+2017,Massachusetts,Cigarette Use (Adults),Smoking Status,Current,3674,Female,All Races,All Ages,All Grades
+2017,Massachusetts,Cigarette Use (Adults),Smoking Frequency,Some Days,377,Male,All Races,All Ages,All Grades
+2017,Massachusetts,Cigarette Use (Adults),Smoking Status,Current,6668,Overall,All Races,All Ages,All Grades
+2017,Massachusetts,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,,Female,All Races,All Ages,All Grades
+2017,Massachusetts,Smokeless Tobacco Use (Adults),User Status,Current,6703,Overall,All Races,All Ages,All Grades
+2017,Massachusetts,Cigarette Use (Adults),Smoking Frequency,Every Day,388,Female,All Races,All Ages,All Grades
+2017,Michigan,Cigarette Use (Adults),Smoking Status,Current,10500,Overall,All Races,All Ages,All Grades
+2017,Michigan,Smokeless Tobacco Use (Adults),User Status,Current,10543,Overall,All Races,All Ages,All Grades
+2017,Michigan,E-Cigarette Use (Adults),Frequency of Use,Some Days,172,Female,All Races,All Ages,All Grades
+2017,Michigan,Smokeless Tobacco Use (Adults),User Status,Current,4674,Male,All Races,All Ages,All Grades
+2017,Michigan,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,,Female,All Races,All Ages,All Grades
+2017,Michigan,Cigarette Use (Adults),Smoking Frequency,Some Days,1652,Overall,All Races,All Ages,All Grades
+2017,Michigan,Cigarette Use (Adults),Smoking Frequency,Some Days,838,Female,All Races,All Ages,All Grades
+2017,Michigan,Cigarette Use (Adults),Smoking Frequency,Every Day,838,Female,All Races,All Ages,All Grades
+2017,Michigan,Cigarette Use (Adults),Smoking Frequency,Every Day,814,Male,All Races,All Ages,All Grades
+2017,Michigan,Cigarette Use (Adults),Smoking Frequency,Some Days,814,Male,All Races,All Ages,All Grades
+2017,Michigan,Smokeless Tobacco Use (Adults),User Status,Current,5869,Female,All Races,All Ages,All Grades
+2017,Michigan,E-Cigarette Use (Adults),Frequency of Use,Every Day,200,Male,All Races,All Ages,All Grades
+2017,Michigan,E-Cigarette Use (Adults),Frequency of Use,Some Days,372,Overall,All Races,All Ages,All Grades
+2017,Michigan,Cigarette Use (Adults),Smoking Frequency,Every Day,1652,Overall,All Races,All Ages,All Grades
+2017,Michigan,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,247,Male,All Races,All Ages,All Grades
+2017,Michigan,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,247,Male,All Races,All Ages,All Grades
+2017,Michigan,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,289,Overall,All Races,All Ages,All Grades
+2017,Michigan,E-Cigarette Use (Adults),Frequency of Use,Every Day,172,Female,All Races,All Ages,All Grades
+2017,Michigan,E-Cigarette Use (Adults),User Status,Current,5851,Female,All Races,All Ages,All Grades
+2017,Michigan,E-Cigarette Use (Adults),Frequency of Use,Some Days,200,Male,All Races,All Ages,All Grades
+2017,Michigan,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,,Female,All Races,All Ages,All Grades
+2017,Michigan,E-Cigarette Use (Adults),Frequency of Use,Every Day,372,Overall,All Races,All Ages,All Grades
+2017,Michigan,Cigarette Use (Adults),Smoking Status,Current,4650,Male,All Races,All Ages,All Grades
+2017,Michigan,E-Cigarette Use (Adults),User Status,Current,4664,Male,All Races,All Ages,All Grades
+2017,Michigan,E-Cigarette Use (Adults),User Status,Current,10515,Overall,All Races,All Ages,All Grades
+2017,Michigan,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,289,Overall,All Races,All Ages,All Grades
+2017,Michigan,Cigarette Use (Adults),Smoking Status,Current,5850,Female,All Races,All Ages,All Grades
+2017,Minnesota,E-Cigarette Use (Adults),User Status,Current,16444,Overall,All Races,All Ages,All Grades
+2017,Minnesota,E-Cigarette Use (Adults),Frequency of Use,Some Days,286,Male,All Races,All Ages,All Grades
+2017,Minnesota,Cigarette Use (Adults),Smoking Frequency,Every Day,1188,Male,All Races,All Ages,All Grades
+2017,Minnesota,E-Cigarette Use (Adults),Frequency of Use,Some Days,188,Female,All Races,All Ages,All Grades
+2017,Minnesota,Smokeless Tobacco Use (Adults),User Status,Current,7839,Male,All Races,All Ages,All Grades
+2017,Minnesota,Cigarette Use (Adults),Smoking Status,Current,16427,Overall,All Races,All Ages,All Grades
+2017,Minnesota,Cigarette Use (Adults),Smoking Status,Current,8628,Female,All Races,All Ages,All Grades
+2017,Minnesota,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,573,Male,All Races,All Ages,All Grades
+2017,Minnesota,Cigarette Use (Adults),Smoking Frequency,Some Days,1032,Female,All Races,All Ages,All Grades
+2017,Minnesota,E-Cigarette Use (Adults),Frequency of Use,Some Days,474,Overall,All Races,All Ages,All Grades
+2017,Minnesota,Smokeless Tobacco Use (Adults),User Status,Current,8681,Female,All Races,All Ages,All Grades
+2017,Minnesota,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,112,Female,All Races,All Ages,All Grades
+2017,Minnesota,E-Cigarette Use (Adults),User Status,Current,7801,Male,All Races,All Ages,All Grades
+2017,Minnesota,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,573,Male,All Races,All Ages,All Grades
+2017,Minnesota,E-Cigarette Use (Adults),User Status,Current,8643,Female,All Races,All Ages,All Grades
+2017,Minnesota,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,685,Overall,All Races,All Ages,All Grades
+2017,Minnesota,Cigarette Use (Adults),Smoking Frequency,Some Days,1188,Male,All Races,All Ages,All Grades
+2017,Minnesota,Cigarette Use (Adults),Smoking Frequency,Some Days,2220,Overall,All Races,All Ages,All Grades
+2017,Minnesota,E-Cigarette Use (Adults),Frequency of Use,Every Day,188,Female,All Races,All Ages,All Grades
+2017,Minnesota,Smokeless Tobacco Use (Adults),User Status,Current,16520,Overall,All Races,All Ages,All Grades
+2017,Minnesota,Cigarette Use (Adults),Smoking Status,Current,7799,Male,All Races,All Ages,All Grades
+2017,Minnesota,E-Cigarette Use (Adults),Frequency of Use,Every Day,474,Overall,All Races,All Ages,All Grades
+2017,Minnesota,E-Cigarette Use (Adults),Frequency of Use,Every Day,286,Male,All Races,All Ages,All Grades
+2017,Minnesota,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,112,Female,All Races,All Ages,All Grades
+2017,Minnesota,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,685,Overall,All Races,All Ages,All Grades
+2017,Minnesota,Cigarette Use (Adults),Smoking Frequency,Every Day,1032,Female,All Races,All Ages,All Grades
+2017,Minnesota,Cigarette Use (Adults),Smoking Frequency,Every Day,2220,Overall,All Races,All Ages,All Grades
+2017,Mississippi,Cigarette Use (Adults),Smoking Frequency,Some Days,834,Overall,All Races,All Ages,All Grades
+2017,Mississippi,E-Cigarette Use (Adults),Frequency of Use,Every Day,149,Overall,All Races,All Ages,All Grades
+2017,Mississippi,Cigarette Use (Adults),Smoking Frequency,Every Day,834,Overall,All Races,All Ages,All Grades
+2017,Mississippi,E-Cigarette Use (Adults),Frequency of Use,Some Days,73,Male,All Races,All Ages,All Grades
+2017,Mississippi,Cigarette Use (Adults),Smoking Status,Current,1920,Male,All Races,All Ages,All Grades
+2017,Mississippi,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,230,Male,All Races,All Ages,All Grades
+2017,Mississippi,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,72,Female,All Races,All Ages,All Grades
+2017,Mississippi,Cigarette Use (Adults),Smoking Frequency,Every Day,479,Female,All Races,All Ages,All Grades
+2017,Mississippi,Smokeless Tobacco Use (Adults),User Status,Current,2874,Female,All Races,All Ages,All Grades
+2017,Mississippi,E-Cigarette Use (Adults),Frequency of Use,Every Day,73,Male,All Races,All Ages,All Grades
+2017,Mississippi,E-Cigarette Use (Adults),Frequency of Use,Some Days,149,Overall,All Races,All Ages,All Grades
+2017,Mississippi,E-Cigarette Use (Adults),Frequency of Use,Every Day,76,Female,All Races,All Ages,All Grades
+2017,Mississippi,Cigarette Use (Adults),Smoking Frequency,Some Days,479,Female,All Races,All Ages,All Grades
+2017,Mississippi,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,230,Male,All Races,All Ages,All Grades
+2017,Mississippi,E-Cigarette Use (Adults),User Status,Current,2871,Female,All Races,All Ages,All Grades
+2017,Mississippi,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,72,Female,All Races,All Ages,All Grades
+2017,Mississippi,Cigarette Use (Adults),Smoking Status,Current,4818,Overall,All Races,All Ages,All Grades
+2017,Mississippi,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,302,Overall,All Races,All Ages,All Grades
+2017,Mississippi,Cigarette Use (Adults),Smoking Status,Current,2896,Female,All Races,All Ages,All Grades
+2017,Mississippi,Cigarette Use (Adults),Smoking Frequency,Every Day,355,Male,All Races,All Ages,All Grades
+2017,Mississippi,Cigarette Use (Adults),Smoking Frequency,Some Days,355,Male,All Races,All Ages,All Grades
+2017,Mississippi,E-Cigarette Use (Adults),User Status,Current,4779,Overall,All Races,All Ages,All Grades
+2017,Mississippi,Smokeless Tobacco Use (Adults),User Status,Current,1913,Male,All Races,All Ages,All Grades
+2017,Mississippi,E-Cigarette Use (Adults),Frequency of Use,Some Days,76,Female,All Races,All Ages,All Grades
+2017,Mississippi,Smokeless Tobacco Use (Adults),User Status,Current,4789,Overall,All Races,All Ages,All Grades
+2017,Mississippi,E-Cigarette Use (Adults),User Status,Current,1906,Male,All Races,All Ages,All Grades
+2017,Mississippi,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,302,Overall,All Races,All Ages,All Grades
+2017,Missouri,E-Cigarette Use (Adults),Frequency of Use,Some Days,262,Overall,All Races,All Ages,All Grades
+2017,Missouri,E-Cigarette Use (Adults),Frequency of Use,Every Day,141,Female,All Races,All Ages,All Grades
+2017,Missouri,Cigarette Use (Adults),Smoking Frequency,Some Days,1311,Overall,All Races,All Ages,All Grades
+2017,Missouri,E-Cigarette Use (Adults),Frequency of Use,Some Days,141,Female,All Races,All Ages,All Grades
+2017,Missouri,Cigarette Use (Adults),Smoking Status,Current,4237,Female,All Races,All Ages,All Grades
+2017,Missouri,Cigarette Use (Adults),Smoking Frequency,Every Day,1311,Overall,All Races,All Ages,All Grades
+2017,Missouri,Cigarette Use (Adults),Smoking Status,Current,3137,Male,All Races,All Ages,All Grades
+2017,Missouri,Cigarette Use (Adults),Smoking Frequency,Some Days,616,Male,All Races,All Ages,All Grades
+2017,Missouri,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,,Female,All Races,All Ages,All Grades
+2017,Missouri,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,,Female,All Races,All Ages,All Grades
+2017,Missouri,Cigarette Use (Adults),Smoking Status,Current,7376,Overall,All Races,All Ages,All Grades
+2017,Missouri,Cigarette Use (Adults),Smoking Frequency,Every Day,616,Male,All Races,All Ages,All Grades
+2017,Missouri,Smokeless Tobacco Use (Adults),User Status,Current,4255,Female,All Races,All Ages,All Grades
+2017,Missouri,Smokeless Tobacco Use (Adults),User Status,Current,7415,Overall,All Races,All Ages,All Grades
+2017,Missouri,E-Cigarette Use (Adults),User Status,Current,3138,Male,All Races,All Ages,All Grades
+2017,Missouri,E-Cigarette Use (Adults),Frequency of Use,Every Day,262,Overall,All Races,All Ages,All Grades
+2017,Missouri,E-Cigarette Use (Adults),Frequency of Use,Every Day,121,Male,All Races,All Ages,All Grades
+2017,Missouri,E-Cigarette Use (Adults),User Status,Current,4233,Female,All Races,All Ages,All Grades
+2017,Missouri,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,339,Overall,All Races,All Ages,All Grades
+2017,Missouri,Cigarette Use (Adults),Smoking Frequency,Every Day,695,Female,All Races,All Ages,All Grades
+2017,Missouri,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,292,Male,All Races,All Ages,All Grades
+2017,Missouri,E-Cigarette Use (Adults),User Status,Current,7373,Overall,All Races,All Ages,All Grades
+2017,Missouri,Cigarette Use (Adults),Smoking Frequency,Some Days,695,Female,All Races,All Ages,All Grades
+2017,Missouri,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,292,Male,All Races,All Ages,All Grades
+2017,Missouri,E-Cigarette Use (Adults),Frequency of Use,Some Days,121,Male,All Races,All Ages,All Grades
+2017,Missouri,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,339,Overall,All Races,All Ages,All Grades
+2017,Missouri,Smokeless Tobacco Use (Adults),User Status,Current,3158,Male,All Races,All Ages,All Grades
+2017,Montana,Cigarette Use (Adults),Smoking Frequency,Some Days,439,Male,All Races,All Ages,All Grades
+2017,Montana,Cigarette Use (Adults),Smoking Frequency,Every Day,439,Male,All Races,All Ages,All Grades
+2017,Montana,E-Cigarette Use (Adults),User Status,Current,3113,Female,All Races,All Ages,All Grades
+2017,Montana,Cigarette Use (Adults),Smoking Frequency,Every Day,952,Overall,All Races,All Ages,All Grades
+2017,Montana,Cigarette Use (Adults),Smoking Frequency,Every Day,513,Female,All Races,All Ages,All Grades
+2017,Montana,Cigarette Use (Adults),Smoking Status,Current,5786,Overall,All Races,All Ages,All Grades
+2017,Montana,E-Cigarette Use (Adults),Frequency of Use,Every Day,147,Overall,All Races,All Ages,All Grades
+2017,Montana,Smokeless Tobacco Use (Adults),User Status,Current,2677,Male,All Races,All Ages,All Grades
+2017,Montana,E-Cigarette Use (Adults),User Status,Current,5784,Overall,All Races,All Ages,All Grades
+2017,Montana,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,403,Overall,All Races,All Ages,All Grades
+2017,Montana,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,362,Male,All Races,All Ages,All Grades
+2017,Montana,Smokeless Tobacco Use (Adults),User Status,Current,5808,Overall,All Races,All Ages,All Grades
+2017,Montana,Cigarette Use (Adults),Smoking Status,Current,3113,Female,All Races,All Ages,All Grades
+2017,Montana,E-Cigarette Use (Adults),Frequency of Use,Some Days,79,Male,All Races,All Ages,All Grades
+2017,Montana,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,403,Overall,All Races,All Ages,All Grades
+2017,Montana,Cigarette Use (Adults),Smoking Status,Current,2669,Male,All Races,All Ages,All Grades
+2017,Montana,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,,Female,All Races,All Ages,All Grades
+2017,Montana,E-Cigarette Use (Adults),Frequency of Use,Some Days,68,Female,All Races,All Ages,All Grades
+2017,Montana,Cigarette Use (Adults),Smoking Frequency,Some Days,513,Female,All Races,All Ages,All Grades
+2017,Montana,E-Cigarette Use (Adults),Frequency of Use,Some Days,147,Overall,All Races,All Ages,All Grades
+2017,Montana,Smokeless Tobacco Use (Adults),User Status,Current,3127,Female,All Races,All Ages,All Grades
+2017,Montana,E-Cigarette Use (Adults),Frequency of Use,Every Day,79,Male,All Races,All Ages,All Grades
+2017,Montana,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,,Female,All Races,All Ages,All Grades
+2017,Montana,Cigarette Use (Adults),Smoking Frequency,Some Days,952,Overall,All Races,All Ages,All Grades
+2017,Montana,E-Cigarette Use (Adults),Frequency of Use,Every Day,68,Female,All Races,All Ages,All Grades
+2017,Montana,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,362,Male,All Races,All Ages,All Grades
+2017,Montana,E-Cigarette Use (Adults),User Status,Current,2667,Male,All Races,All Ages,All Grades
+2017,National Median (States and DC),E-Cigarette Use (Adults),User Status,Current,,Overall,All Races,All Ages,All Grades
+2017,National Median (States and DC),Cigarette Use (Adults),Smoking Status,Current,,Overall,All Races,All Ages,All Grades
+2017,National Median (States and DC),Smokeless Tobacco Use (Adults),User Status,Current,,Overall,All Races,All Ages,All Grades
+2017,Nebraska,Smokeless Tobacco Use (Adults),User Status,Current,6740,Male,All Races,All Ages,All Grades
+2017,Nebraska,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,829,Overall,All Races,All Ages,All Grades
+2017,Nebraska,Cigarette Use (Adults),Smoking Frequency,Some Days,2056,Overall,All Races,All Ages,All Grades
+2017,Nebraska,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,756,Male,All Races,All Ages,All Grades
+2017,Nebraska,Cigarette Use (Adults),Smoking Status,Current,14849,Overall,All Races,All Ages,All Grades
+2017,Nebraska,Cigarette Use (Adults),Smoking Status,Current,8114,Female,All Races,All Ages,All Grades
+2017,Nebraska,E-Cigarette Use (Adults),Frequency of Use,Every Day,184,Female,All Races,All Ages,All Grades
+2017,Nebraska,E-Cigarette Use (Adults),User Status,Current,14763,Overall,All Races,All Ages,All Grades
+2017,Nebraska,Cigarette Use (Adults),Smoking Status,Current,6729,Male,All Races,All Ages,All Grades
+2017,Nebraska,E-Cigarette Use (Adults),Frequency of Use,Every Day,376,Overall,All Races,All Ages,All Grades
+2017,Nebraska,Cigarette Use (Adults),Smoking Frequency,Every Day,981,Male,All Races,All Ages,All Grades
+2017,Nebraska,E-Cigarette Use (Adults),User Status,Current,6690,Male,All Races,All Ages,All Grades
+2017,Nebraska,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,73,Female,All Races,All Ages,All Grades
+2017,Nebraska,Cigarette Use (Adults),Smoking Frequency,Every Day,2056,Overall,All Races,All Ages,All Grades
+2017,Nebraska,E-Cigarette Use (Adults),User Status,Current,8067,Female,All Races,All Ages,All Grades
+2017,Nebraska,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,829,Overall,All Races,All Ages,All Grades
+2017,Nebraska,Cigarette Use (Adults),Smoking Frequency,Some Days,1075,Female,All Races,All Ages,All Grades
+2017,Nebraska,E-Cigarette Use (Adults),Frequency of Use,Some Days,376,Overall,All Races,All Ages,All Grades
+2017,Nebraska,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,73,Female,All Races,All Ages,All Grades
+2017,Nebraska,Smokeless Tobacco Use (Adults),User Status,Current,8129,Female,All Races,All Ages,All Grades
+2017,Nebraska,Smokeless Tobacco Use (Adults),User Status,Current,14875,Overall,All Races,All Ages,All Grades
+2017,Nebraska,Cigarette Use (Adults),Smoking Frequency,Some Days,981,Male,All Races,All Ages,All Grades
+2017,Nebraska,E-Cigarette Use (Adults),Frequency of Use,Some Days,192,Male,All Races,All Ages,All Grades
+2017,Nebraska,E-Cigarette Use (Adults),Frequency of Use,Some Days,184,Female,All Races,All Ages,All Grades
+2017,Nebraska,E-Cigarette Use (Adults),Frequency of Use,Every Day,192,Male,All Races,All Ages,All Grades
+2017,Nebraska,Cigarette Use (Adults),Smoking Frequency,Every Day,1075,Female,All Races,All Ages,All Grades
+2017,Nebraska,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,756,Male,All Races,All Ages,All Grades
+2017,Nevada,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,,Female,All Races,All Ages,All Grades
+2017,Nevada,E-Cigarette Use (Adults),User Status,Current,1621,Male,All Races,All Ages,All Grades
+2017,Nevada,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,125,Overall,All Races,All Ages,All Grades
+2017,Nevada,Cigarette Use (Adults),Smoking Frequency,Every Day,566,Overall,All Races,All Ages,All Grades
+2017,Nevada,Cigarette Use (Adults),Smoking Frequency,Some Days,295,Female,All Races,All Ages,All Grades
+2017,Nevada,E-Cigarette Use (Adults),User Status,Current,2029,Female,All Races,All Ages,All Grades
+2017,Nevada,Cigarette Use (Adults),Smoking Status,Current,2021,Female,All Races,All Ages,All Grades
+2017,Nevada,E-Cigarette Use (Adults),Frequency of Use,Some Days,93,Male,All Races,All Ages,All Grades
+2017,Nevada,Cigarette Use (Adults),Smoking Status,Current,1621,Male,All Races,All Ages,All Grades
+2017,Nevada,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,108,Male,All Races,All Ages,All Grades
+2017,Nevada,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,125,Overall,All Races,All Ages,All Grades
+2017,Nevada,E-Cigarette Use (Adults),Frequency of Use,Some Days,77,Female,All Races,All Ages,All Grades
+2017,Nevada,Cigarette Use (Adults),Smoking Frequency,Some Days,566,Overall,All Races,All Ages,All Grades
+2017,Nevada,Cigarette Use (Adults),Smoking Status,Current,3643,Overall,All Races,All Ages,All Grades
+2017,Nevada,Cigarette Use (Adults),Smoking Frequency,Every Day,295,Female,All Races,All Ages,All Grades
+2017,Nevada,E-Cigarette Use (Adults),Frequency of Use,Every Day,93,Male,All Races,All Ages,All Grades
+2017,Nevada,E-Cigarette Use (Adults),Frequency of Use,Some Days,170,Overall,All Races,All Ages,All Grades
+2017,Nevada,Smokeless Tobacco Use (Adults),User Status,Current,2031,Female,All Races,All Ages,All Grades
+2017,Nevada,E-Cigarette Use (Adults),Frequency of Use,Every Day,170,Overall,All Races,All Ages,All Grades
+2017,Nevada,Smokeless Tobacco Use (Adults),User Status,Current,3663,Overall,All Races,All Ages,All Grades
+2017,Nevada,E-Cigarette Use (Adults),User Status,Current,3651,Overall,All Races,All Ages,All Grades
+2017,Nevada,Cigarette Use (Adults),Smoking Frequency,Some Days,271,Male,All Races,All Ages,All Grades
+2017,Nevada,Cigarette Use (Adults),Smoking Frequency,Every Day,271,Male,All Races,All Ages,All Grades
+2017,Nevada,Smokeless Tobacco Use (Adults),User Status,Current,1631,Male,All Races,All Ages,All Grades
+2017,Nevada,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,108,Male,All Races,All Ages,All Grades
+2017,Nevada,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,,Female,All Races,All Ages,All Grades
+2017,Nevada,E-Cigarette Use (Adults),Frequency of Use,Every Day,77,Female,All Races,All Ages,All Grades
+2017,New Hampshire,Cigarette Use (Adults),Smoking Frequency,Some Days,295,Male,All Races,All Ages,All Grades
+2017,New Hampshire,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,56,Male,All Races,All Ages,All Grades
+2017,New Hampshire,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,74,Overall,All Races,All Ages,All Grades
+2017,New Hampshire,E-Cigarette Use (Adults),Frequency of Use,Every Day,133,Overall,All Races,All Ages,All Grades
+2017,New Hampshire,E-Cigarette Use (Adults),Frequency of Use,Some Days,133,Overall,All Races,All Ages,All Grades
+2017,New Hampshire,Cigarette Use (Adults),Smoking Frequency,Some Days,411,Female,All Races,All Ages,All Grades
+2017,New Hampshire,Cigarette Use (Adults),Smoking Frequency,Some Days,706,Overall,All Races,All Ages,All Grades
+2017,New Hampshire,E-Cigarette Use (Adults),User Status,Current,5483,Overall,All Races,All Ages,All Grades
+2017,New Hampshire,E-Cigarette Use (Adults),Frequency of Use,Some Days,61,Male,All Races,All Ages,All Grades
+2017,New Hampshire,Smokeless Tobacco Use (Adults),User Status,Current,3181,Female,All Races,All Ages,All Grades
+2017,New Hampshire,E-Cigarette Use (Adults),Frequency of Use,Some Days,72,Female,All Races,All Ages,All Grades
+2017,New Hampshire,Cigarette Use (Adults),Smoking Status,Current,2333,Male,All Races,All Ages,All Grades
+2017,New Hampshire,Cigarette Use (Adults),Smoking Frequency,Every Day,411,Female,All Races,All Ages,All Grades
+2017,New Hampshire,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,,Female,All Races,All Ages,All Grades
+2017,New Hampshire,E-Cigarette Use (Adults),User Status,Current,2334,Male,All Races,All Ages,All Grades
+2017,New Hampshire,Cigarette Use (Adults),Smoking Frequency,Every Day,295,Male,All Races,All Ages,All Grades
+2017,New Hampshire,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,74,Overall,All Races,All Ages,All Grades
+2017,New Hampshire,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,56,Male,All Races,All Ages,All Grades
+2017,New Hampshire,E-Cigarette Use (Adults),Frequency of Use,Every Day,61,Male,All Races,All Ages,All Grades
+2017,New Hampshire,Cigarette Use (Adults),Smoking Status,Current,5503,Overall,All Races,All Ages,All Grades
+2017,New Hampshire,E-Cigarette Use (Adults),Frequency of Use,Every Day,72,Female,All Races,All Ages,All Grades
+2017,New Hampshire,Smokeless Tobacco Use (Adults),User Status,Current,2342,Male,All Races,All Ages,All Grades
+2017,New Hampshire,E-Cigarette Use (Adults),User Status,Current,3139,Female,All Races,All Ages,All Grades
+2017,New Hampshire,Cigarette Use (Adults),Smoking Frequency,Every Day,706,Overall,All Races,All Ages,All Grades
+2017,New Hampshire,Smokeless Tobacco Use (Adults),User Status,Current,5533,Overall,All Races,All Ages,All Grades
+2017,New Hampshire,Cigarette Use (Adults),Smoking Status,Current,3160,Female,All Races,All Ages,All Grades
+2017,New Hampshire,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,,Female,All Races,All Ages,All Grades
+2017,New Jersey,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,156,Overall,All Races,All Ages,All Grades
+2017,New Jersey,E-Cigarette Use (Adults),User Status,Current,6495,Female,All Races,All Ages,All Grades
+2017,New Jersey,Cigarette Use (Adults),Smoking Frequency,Every Day,754,Female,All Races,All Ages,All Grades
+2017,New Jersey,Smokeless Tobacco Use (Adults),User Status,Current,6532,Female,All Races,All Ages,All Grades
+2017,New Jersey,E-Cigarette Use (Adults),Frequency of Use,Every Day,334,Overall,All Races,All Ages,All Grades
+2017,New Jersey,Cigarette Use (Adults),Smoking Status,Current,11221,Overall,All Races,All Ages,All Grades
+2017,New Jersey,E-Cigarette Use (Adults),Frequency of Use,Every Day,198,Male,All Races,All Ages,All Grades
+2017,New Jersey,E-Cigarette Use (Adults),User Status,Current,4725,Male,All Races,All Ages,All Grades
+2017,New Jersey,Cigarette Use (Adults),Smoking Frequency,Some Days,1414,Overall,All Races,All Ages,All Grades
+2017,New Jersey,E-Cigarette Use (Adults),Frequency of Use,Some Days,334,Overall,All Races,All Ages,All Grades
+2017,New Jersey,E-Cigarette Use (Adults),User Status,Current,11220,Overall,All Races,All Ages,All Grades
+2017,New Jersey,Cigarette Use (Adults),Smoking Status,Current,4726,Male,All Races,All Ages,All Grades
+2017,New Jersey,E-Cigarette Use (Adults),Frequency of Use,Some Days,136,Female,All Races,All Ages,All Grades
+2017,New Jersey,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,,Female,All Races,All Ages,All Grades
+2017,New Jersey,E-Cigarette Use (Adults),Frequency of Use,Every Day,136,Female,All Races,All Ages,All Grades
+2017,New Jersey,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,,Female,All Races,All Ages,All Grades
+2017,New Jersey,Cigarette Use (Adults),Smoking Frequency,Every Day,660,Male,All Races,All Ages,All Grades
+2017,New Jersey,Cigarette Use (Adults),Smoking Frequency,Every Day,1414,Overall,All Races,All Ages,All Grades
+2017,New Jersey,Cigarette Use (Adults),Smoking Frequency,Some Days,754,Female,All Races,All Ages,All Grades
+2017,New Jersey,Cigarette Use (Adults),Smoking Frequency,Some Days,660,Male,All Races,All Ages,All Grades
+2017,New Jersey,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,156,Overall,All Races,All Ages,All Grades
+2017,New Jersey,Smokeless Tobacco Use (Adults),User Status,Current,4750,Male,All Races,All Ages,All Grades
+2017,New Jersey,Smokeless Tobacco Use (Adults),User Status,Current,11282,Overall,All Races,All Ages,All Grades
+2017,New Jersey,Cigarette Use (Adults),Smoking Status,Current,6495,Female,All Races,All Ages,All Grades
+2017,New Jersey,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,117,Male,All Races,All Ages,All Grades
+2017,New Jersey,E-Cigarette Use (Adults),Frequency of Use,Some Days,198,Male,All Races,All Ages,All Grades
+2017,New Jersey,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,117,Male,All Races,All Ages,All Grades
+2017,New Mexico,E-Cigarette Use (Adults),Frequency of Use,Some Days,199,Overall,All Races,All Ages,All Grades
+2017,New Mexico,Cigarette Use (Adults),Smoking Status,Current,3499,Female,All Races,All Ages,All Grades
+2017,New Mexico,E-Cigarette Use (Adults),Frequency of Use,Some Days,107,Male,All Races,All Ages,All Grades
+2017,New Mexico,Cigarette Use (Adults),Smoking Frequency,Some Days,496,Female,All Races,All Ages,All Grades
+2017,New Mexico,Cigarette Use (Adults),Smoking Frequency,Some Days,485,Male,All Races,All Ages,All Grades
+2017,New Mexico,Cigarette Use (Adults),Smoking Status,Current,6254,Overall,All Races,All Ages,All Grades
+2017,New Mexico,E-Cigarette Use (Adults),User Status,Current,3462,Female,All Races,All Ages,All Grades
+2017,New Mexico,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,,Female,All Races,All Ages,All Grades
+2017,New Mexico,E-Cigarette Use (Adults),User Status,Current,2737,Male,All Races,All Ages,All Grades
+2017,New Mexico,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,230,Overall,All Races,All Ages,All Grades
+2017,New Mexico,Smokeless Tobacco Use (Adults),User Status,Current,2761,Male,All Races,All Ages,All Grades
+2017,New Mexico,Cigarette Use (Adults),Smoking Frequency,Every Day,496,Female,All Races,All Ages,All Grades
+2017,New Mexico,Smokeless Tobacco Use (Adults),User Status,Current,6271,Overall,All Races,All Ages,All Grades
+2017,New Mexico,Cigarette Use (Adults),Smoking Status,Current,2752,Male,All Races,All Ages,All Grades
+2017,New Mexico,E-Cigarette Use (Adults),Frequency of Use,Every Day,92,Female,All Races,All Ages,All Grades
+2017,New Mexico,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,198,Male,All Races,All Ages,All Grades
+2017,New Mexico,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,198,Male,All Races,All Ages,All Grades
+2017,New Mexico,Smokeless Tobacco Use (Adults),User Status,Current,3507,Female,All Races,All Ages,All Grades
+2017,New Mexico,E-Cigarette Use (Adults),Frequency of Use,Some Days,92,Female,All Races,All Ages,All Grades
+2017,New Mexico,Cigarette Use (Adults),Smoking Frequency,Every Day,981,Overall,All Races,All Ages,All Grades
+2017,New Mexico,Cigarette Use (Adults),Smoking Frequency,Some Days,981,Overall,All Races,All Ages,All Grades
+2017,New Mexico,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,,Female,All Races,All Ages,All Grades
+2017,New Mexico,E-Cigarette Use (Adults),Frequency of Use,Every Day,107,Male,All Races,All Ages,All Grades
+2017,New Mexico,E-Cigarette Use (Adults),User Status,Current,6202,Overall,All Races,All Ages,All Grades
+2017,New Mexico,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,230,Overall,All Races,All Ages,All Grades
+2017,New Mexico,E-Cigarette Use (Adults),Frequency of Use,Every Day,199,Overall,All Races,All Ages,All Grades
+2017,New Mexico,Cigarette Use (Adults),Smoking Frequency,Every Day,485,Male,All Races,All Ages,All Grades
+2017,New York,Cigarette Use (Adults),Smoking Frequency,Some Days,850,Male,All Races,All Ages,All Grades
+2017,New York,E-Cigarette Use (Adults),Frequency of Use,Some Days,344,Overall,All Races,All Ages,All Grades
+2017,New York,Cigarette Use (Adults),Smoking Status,Current,5289,Male,All Races,All Ages,All Grades
+2017,New York,E-Cigarette Use (Adults),User Status,Current,11419,Overall,All Races,All Ages,All Grades
+2017,New York,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,248,Overall,All Races,All Ages,All Grades
+2017,New York,E-Cigarette Use (Adults),Frequency of Use,Every Day,130,Female,All Races,All Ages,All Grades
+2017,New York,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,248,Overall,All Races,All Ages,All Grades
+2017,New York,Cigarette Use (Adults),Smoking Status,Current,6263,Female,All Races,All Ages,All Grades
+2017,New York,E-Cigarette Use (Adults),User Status,Current,5220,Male,All Races,All Ages,All Grades
+2017,New York,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,63,Female,All Races,All Ages,All Grades
+2017,New York,E-Cigarette Use (Adults),Frequency of Use,Some Days,130,Female,All Races,All Ages,All Grades
+2017,New York,Cigarette Use (Adults),Smoking Frequency,Some Days,722,Female,All Races,All Ages,All Grades
+2017,New York,E-Cigarette Use (Adults),Frequency of Use,Every Day,344,Overall,All Races,All Ages,All Grades
+2017,New York,Smokeless Tobacco Use (Adults),User Status,Current,11521,Overall,All Races,All Ages,All Grades
+2017,New York,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,185,Male,All Races,All Ages,All Grades
+2017,New York,Smokeless Tobacco Use (Adults),User Status,Current,6254,Female,All Races,All Ages,All Grades
+2017,New York,E-Cigarette Use (Adults),Frequency of Use,Some Days,214,Male,All Races,All Ages,All Grades
+2017,New York,E-Cigarette Use (Adults),Frequency of Use,Every Day,214,Male,All Races,All Ages,All Grades
+2017,New York,Cigarette Use (Adults),Smoking Frequency,Every Day,1572,Overall,All Races,All Ages,All Grades
+2017,New York,Cigarette Use (Adults),Smoking Frequency,Some Days,1572,Overall,All Races,All Ages,All Grades
+2017,New York,Smokeless Tobacco Use (Adults),User Status,Current,5264,Male,All Races,All Ages,All Grades
+2017,New York,Cigarette Use (Adults),Smoking Frequency,Every Day,850,Male,All Races,All Ages,All Grades
+2017,New York,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,185,Male,All Races,All Ages,All Grades
+2017,New York,Cigarette Use (Adults),Smoking Status,Current,11555,Overall,All Races,All Ages,All Grades
+2017,New York,Cigarette Use (Adults),Smoking Frequency,Every Day,722,Female,All Races,All Ages,All Grades
+2017,New York,E-Cigarette Use (Adults),User Status,Current,6196,Female,All Races,All Ages,All Grades
+2017,New York,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,63,Female,All Races,All Ages,All Grades
+2017,North Carolina,E-Cigarette Use (Adults),Frequency of Use,Some Days,153,Overall,All Races,All Ages,All Grades
+2017,North Carolina,E-Cigarette Use (Adults),Frequency of Use,Every Day,78,Male,All Races,All Ages,All Grades
+2017,North Carolina,Smokeless Tobacco Use (Adults),User Status,Current,2116,Male,All Races,All Ages,All Grades
+2017,North Carolina,Cigarette Use (Adults),Smoking Status,Current,2628,Female,All Races,All Ages,All Grades
+2017,North Carolina,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,142,Male,All Races,All Ages,All Grades
+2017,North Carolina,E-Cigarette Use (Adults),User Status,Current,2614,Female,All Races,All Ages,All Grades
+2017,North Carolina,Cigarette Use (Adults),Smoking Frequency,Every Day,372,Female,All Races,All Ages,All Grades
+2017,North Carolina,E-Cigarette Use (Adults),Frequency of Use,Some Days,75,Female,All Races,All Ages,All Grades
+2017,North Carolina,Cigarette Use (Adults),Smoking Frequency,Some Days,372,Female,All Races,All Ages,All Grades
+2017,North Carolina,Smokeless Tobacco Use (Adults),User Status,Current,2632,Female,All Races,All Ages,All Grades
+2017,North Carolina,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,142,Male,All Races,All Ages,All Grades
+2017,North Carolina,Cigarette Use (Adults),Smoking Frequency,Every Day,765,Overall,All Races,All Ages,All Grades
+2017,North Carolina,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,53,Female,All Races,All Ages,All Grades
+2017,North Carolina,Cigarette Use (Adults),Smoking Frequency,Some Days,765,Overall,All Races,All Ages,All Grades
+2017,North Carolina,Cigarette Use (Adults),Smoking Frequency,Every Day,393,Male,All Races,All Ages,All Grades
+2017,North Carolina,E-Cigarette Use (Adults),Frequency of Use,Some Days,78,Male,All Races,All Ages,All Grades
+2017,North Carolina,Smokeless Tobacco Use (Adults),User Status,Current,4750,Overall,All Races,All Ages,All Grades
+2017,North Carolina,E-Cigarette Use (Adults),Frequency of Use,Every Day,75,Female,All Races,All Ages,All Grades
+2017,North Carolina,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,53,Female,All Races,All Ages,All Grades
+2017,North Carolina,E-Cigarette Use (Adults),User Status,Current,2102,Male,All Races,All Ages,All Grades
+2017,North Carolina,Cigarette Use (Adults),Smoking Frequency,Some Days,393,Male,All Races,All Ages,All Grades
+2017,North Carolina,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,195,Overall,All Races,All Ages,All Grades
+2017,North Carolina,Cigarette Use (Adults),Smoking Status,Current,2111,Male,All Races,All Ages,All Grades
+2017,North Carolina,Cigarette Use (Adults),Smoking Status,Current,4741,Overall,All Races,All Ages,All Grades
+2017,North Carolina,E-Cigarette Use (Adults),User Status,Current,4718,Overall,All Races,All Ages,All Grades
+2017,North Carolina,E-Cigarette Use (Adults),Frequency of Use,Every Day,153,Overall,All Races,All Ages,All Grades
+2017,North Carolina,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,195,Overall,All Races,All Ages,All Grades
+2017,North Dakota,E-Cigarette Use (Adults),User Status,Current,6727,Overall,All Races,All Ages,All Grades
+2017,North Dakota,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,310,Male,All Races,All Ages,All Grades
+2017,North Dakota,E-Cigarette Use (Adults),Frequency of Use,Some Days,62,Female,All Races,All Ages,All Grades
+2017,North Dakota,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,,Female,All Races,All Ages,All Grades
+2017,North Dakota,Smokeless Tobacco Use (Adults),User Status,Current,3162,Male,All Races,All Ages,All Grades
+2017,North Dakota,Cigarette Use (Adults),Smoking Frequency,Some Days,532,Male,All Races,All Ages,All Grades
+2017,North Dakota,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,331,Overall,All Races,All Ages,All Grades
+2017,North Dakota,Cigarette Use (Adults),Smoking Status,Current,3568,Female,All Races,All Ages,All Grades
+2017,North Dakota,E-Cigarette Use (Adults),User Status,Current,3559,Female,All Races,All Ages,All Grades
+2017,North Dakota,E-Cigarette Use (Adults),User Status,Current,3165,Male,All Races,All Ages,All Grades
+2017,North Dakota,Smokeless Tobacco Use (Adults),User Status,Current,6724,Overall,All Races,All Ages,All Grades
+2017,North Dakota,E-Cigarette Use (Adults),Frequency of Use,Some Days,86,Male,All Races,All Ages,All Grades
+2017,North Dakota,E-Cigarette Use (Adults),Frequency of Use,Every Day,86,Male,All Races,All Ages,All Grades
+2017,North Dakota,Cigarette Use (Adults),Smoking Frequency,Every Day,515,Female,All Races,All Ages,All Grades
+2017,North Dakota,Cigarette Use (Adults),Smoking Frequency,Some Days,1047,Overall,All Races,All Ages,All Grades
+2017,North Dakota,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,310,Male,All Races,All Ages,All Grades
+2017,North Dakota,Cigarette Use (Adults),Smoking Frequency,Every Day,532,Male,All Races,All Ages,All Grades
+2017,North Dakota,E-Cigarette Use (Adults),Frequency of Use,Some Days,148,Overall,All Races,All Ages,All Grades
+2017,North Dakota,Cigarette Use (Adults),Smoking Status,Current,3171,Male,All Races,All Ages,All Grades
+2017,North Dakota,E-Cigarette Use (Adults),Frequency of Use,Every Day,62,Female,All Races,All Ages,All Grades
+2017,North Dakota,Smokeless Tobacco Use (Adults),User Status,Current,3559,Female,All Races,All Ages,All Grades
+2017,North Dakota,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,331,Overall,All Races,All Ages,All Grades
+2017,North Dakota,Cigarette Use (Adults),Smoking Frequency,Every Day,1047,Overall,All Races,All Ages,All Grades
+2017,North Dakota,Cigarette Use (Adults),Smoking Status,Current,6742,Overall,All Races,All Ages,All Grades
+2017,North Dakota,Cigarette Use (Adults),Smoking Frequency,Some Days,515,Female,All Races,All Ages,All Grades
+2017,North Dakota,E-Cigarette Use (Adults),Frequency of Use,Every Day,148,Overall,All Races,All Ages,All Grades
+2017,North Dakota,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,,Female,All Races,All Ages,All Grades
+2017,Ohio,Cigarette Use (Adults),Smoking Status,Current,6954,Female,All Races,All Ages,All Grades
+2017,Ohio,E-Cigarette Use (Adults),Frequency of Use,Every Day,212,Female,All Races,All Ages,All Grades
+2017,Ohio,Cigarette Use (Adults),Smoking Frequency,Some Days,900,Male,All Races,All Ages,All Grades
+2017,Ohio,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,412,Male,All Races,All Ages,All Grades
+2017,Ohio,Cigarette Use (Adults),Smoking Frequency,Every Day,1171,Female,All Races,All Ages,All Grades
+2017,Ohio,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,60,Female,All Races,All Ages,All Grades
+2017,Ohio,Cigarette Use (Adults),Smoking Frequency,Every Day,900,Male,All Races,All Ages,All Grades
+2017,Ohio,Smokeless Tobacco Use (Adults),User Status,Current,6981,Female,All Races,All Ages,All Grades
+2017,Ohio,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,472,Overall,All Races,All Ages,All Grades
+2017,Ohio,E-Cigarette Use (Adults),User Status,Current,11858,Overall,All Races,All Ages,All Grades
+2017,Ohio,E-Cigarette Use (Adults),Frequency of Use,Every Day,208,Male,All Races,All Ages,All Grades
+2017,Ohio,Cigarette Use (Adults),Smoking Frequency,Some Days,2071,Overall,All Races,All Ages,All Grades
+2017,Ohio,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,60,Female,All Races,All Ages,All Grades
+2017,Ohio,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,412,Male,All Races,All Ages,All Grades
+2017,Ohio,Smokeless Tobacco Use (Adults),User Status,Current,4948,Male,All Races,All Ages,All Grades
+2017,Ohio,Cigarette Use (Adults),Smoking Status,Current,4925,Male,All Races,All Ages,All Grades
+2017,Ohio,Cigarette Use (Adults),Smoking Frequency,Some Days,1171,Female,All Races,All Ages,All Grades
+2017,Ohio,E-Cigarette Use (Adults),Frequency of Use,Every Day,420,Overall,All Races,All Ages,All Grades
+2017,Ohio,Cigarette Use (Adults),Smoking Status,Current,11879,Overall,All Races,All Ages,All Grades
+2017,Ohio,Smokeless Tobacco Use (Adults),User Status,Current,11929,Overall,All Races,All Ages,All Grades
+2017,Ohio,E-Cigarette Use (Adults),Frequency of Use,Some Days,212,Female,All Races,All Ages,All Grades
+2017,Ohio,E-Cigarette Use (Adults),Frequency of Use,Some Days,420,Overall,All Races,All Ages,All Grades
+2017,Ohio,E-Cigarette Use (Adults),User Status,Current,4917,Male,All Races,All Ages,All Grades
+2017,Ohio,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,472,Overall,All Races,All Ages,All Grades
+2017,Ohio,E-Cigarette Use (Adults),User Status,Current,6941,Female,All Races,All Ages,All Grades
+2017,Ohio,E-Cigarette Use (Adults),Frequency of Use,Some Days,208,Male,All Races,All Ages,All Grades
+2017,Ohio,Cigarette Use (Adults),Smoking Frequency,Every Day,2071,Overall,All Races,All Ages,All Grades
+2017,Oklahoma,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,302,Male,All Races,All Ages,All Grades
+2017,Oklahoma,Cigarette Use (Adults),Smoking Frequency,Some Days,1008,Overall,All Races,All Ages,All Grades
+2017,Oklahoma,E-Cigarette Use (Adults),Frequency of Use,Some Days,298,Overall,All Races,All Ages,All Grades
+2017,Oklahoma,E-Cigarette Use (Adults),Frequency of Use,Every Day,139,Male,All Races,All Ages,All Grades
+2017,Oklahoma,Cigarette Use (Adults),Smoking Status,Current,3774,Female,All Races,All Ages,All Grades
+2017,Oklahoma,Smokeless Tobacco Use (Adults),User Status,Current,3809,Female,All Races,All Ages,All Grades
+2017,Oklahoma,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,331,Overall,All Races,All Ages,All Grades
+2017,Oklahoma,E-Cigarette Use (Adults),User Status,Current,2592,Male,All Races,All Ages,All Grades
+2017,Oklahoma,Cigarette Use (Adults),Smoking Status,Current,6371,Overall,All Races,All Ages,All Grades
+2017,Oklahoma,Cigarette Use (Adults),Smoking Status,Current,2595,Male,All Races,All Ages,All Grades
+2017,Oklahoma,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,,Female,All Races,All Ages,All Grades
+2017,Oklahoma,E-Cigarette Use (Adults),Frequency of Use,Every Day,159,Female,All Races,All Ages,All Grades
+2017,Oklahoma,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,302,Male,All Races,All Ages,All Grades
+2017,Oklahoma,Cigarette Use (Adults),Smoking Frequency,Some Days,447,Male,All Races,All Ages,All Grades
+2017,Oklahoma,E-Cigarette Use (Adults),User Status,Current,3775,Female,All Races,All Ages,All Grades
+2017,Oklahoma,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,331,Overall,All Races,All Ages,All Grades
+2017,Oklahoma,E-Cigarette Use (Adults),User Status,Current,6369,Overall,All Races,All Ages,All Grades
+2017,Oklahoma,Cigarette Use (Adults),Smoking Frequency,Some Days,561,Female,All Races,All Ages,All Grades
+2017,Oklahoma,E-Cigarette Use (Adults),Frequency of Use,Some Days,139,Male,All Races,All Ages,All Grades
+2017,Oklahoma,Smokeless Tobacco Use (Adults),User Status,Current,6422,Overall,All Races,All Ages,All Grades
+2017,Oklahoma,Cigarette Use (Adults),Smoking Frequency,Every Day,1008,Overall,All Races,All Ages,All Grades
+2017,Oklahoma,Cigarette Use (Adults),Smoking Frequency,Every Day,561,Female,All Races,All Ages,All Grades
+2017,Oklahoma,Cigarette Use (Adults),Smoking Frequency,Every Day,447,Male,All Races,All Ages,All Grades
+2017,Oklahoma,E-Cigarette Use (Adults),Frequency of Use,Some Days,159,Female,All Races,All Ages,All Grades
+2017,Oklahoma,E-Cigarette Use (Adults),Frequency of Use,Every Day,298,Overall,All Races,All Ages,All Grades
+2017,Oklahoma,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,,Female,All Races,All Ages,All Grades
+2017,Oklahoma,Smokeless Tobacco Use (Adults),User Status,Current,2611,Male,All Races,All Ages,All Grades
+2017,Oregon,E-Cigarette Use (Adults),User Status,Current,5108,Overall,All Races,All Ages,All Grades
+2017,Oregon,Cigarette Use (Adults),Smoking Status,Current,2247,Male,All Races,All Ages,All Grades
+2017,Oregon,E-Cigarette Use (Adults),Frequency of Use,Some Days,77,Female,All Races,All Ages,All Grades
+2017,Oregon,Smokeless Tobacco Use (Adults),User Status,Current,5155,Overall,All Races,All Ages,All Grades
+2017,Oregon,E-Cigarette Use (Adults),Frequency of Use,Every Day,77,Female,All Races,All Ages,All Grades
+2017,Oregon,Cigarette Use (Adults),Smoking Frequency,Every Day,721,Overall,All Races,All Ages,All Grades
+2017,Oregon,Cigarette Use (Adults),Smoking Frequency,Every Day,372,Female,All Races,All Ages,All Grades
+2017,Oregon,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,153,Overall,All Races,All Ages,All Grades
+2017,Oregon,E-Cigarette Use (Adults),User Status,Current,2238,Male,All Races,All Ages,All Grades
+2017,Oregon,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,153,Overall,All Races,All Ages,All Grades
+2017,Oregon,E-Cigarette Use (Adults),Frequency of Use,Some Days,169,Overall,All Races,All Ages,All Grades
+2017,Oregon,Cigarette Use (Adults),Smoking Status,Current,2874,Female,All Races,All Ages,All Grades
+2017,Oregon,E-Cigarette Use (Adults),Frequency of Use,Some Days,92,Male,All Races,All Ages,All Grades
+2017,Oregon,E-Cigarette Use (Adults),User Status,Current,2864,Female,All Races,All Ages,All Grades
+2017,Oregon,E-Cigarette Use (Adults),Frequency of Use,Every Day,92,Male,All Races,All Ages,All Grades
+2017,Oregon,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,139,Male,All Races,All Ages,All Grades
+2017,Oregon,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,,Female,All Races,All Ages,All Grades
+2017,Oregon,Smokeless Tobacco Use (Adults),User Status,Current,2258,Male,All Races,All Ages,All Grades
+2017,Oregon,Cigarette Use (Adults),Smoking Frequency,Some Days,349,Male,All Races,All Ages,All Grades
+2017,Oregon,E-Cigarette Use (Adults),Frequency of Use,Every Day,169,Overall,All Races,All Ages,All Grades
+2017,Oregon,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,139,Male,All Races,All Ages,All Grades
+2017,Oregon,Smokeless Tobacco Use (Adults),User Status,Current,2891,Female,All Races,All Ages,All Grades
+2017,Oregon,Cigarette Use (Adults),Smoking Status,Current,5127,Overall,All Races,All Ages,All Grades
+2017,Oregon,Cigarette Use (Adults),Smoking Frequency,Some Days,372,Female,All Races,All Ages,All Grades
+2017,Oregon,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,,Female,All Races,All Ages,All Grades
+2017,Oregon,Cigarette Use (Adults),Smoking Frequency,Every Day,349,Male,All Races,All Ages,All Grades
+2017,Oregon,Cigarette Use (Adults),Smoking Frequency,Some Days,721,Overall,All Races,All Ages,All Grades
+2017,Pennsylvania,Smokeless Tobacco Use (Adults),User Status,Current,3409,Female,All Races,All Ages,All Grades
+2017,Pennsylvania,Cigarette Use (Adults),Smoking Frequency,Some Days,543,Male,All Races,All Ages,All Grades
+2017,Pennsylvania,E-Cigarette Use (Adults),User Status,Current,3383,Female,All Races,All Ages,All Grades
+2017,Pennsylvania,E-Cigarette Use (Adults),Frequency of Use,Some Days,114,Female,All Races,All Ages,All Grades
+2017,Pennsylvania,Smokeless Tobacco Use (Adults),User Status,Current,6360,Overall,All Races,All Ages,All Grades
+2017,Pennsylvania,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,,Female,All Races,All Ages,All Grades
+2017,Pennsylvania,E-Cigarette Use (Adults),Frequency of Use,Every Day,114,Female,All Races,All Ages,All Grades
+2017,Pennsylvania,Cigarette Use (Adults),Smoking Status,Current,6353,Overall,All Races,All Ages,All Grades
+2017,Pennsylvania,Cigarette Use (Adults),Smoking Frequency,Every Day,1109,Overall,All Races,All Ages,All Grades
+2017,Pennsylvania,Cigarette Use (Adults),Smoking Frequency,Some Days,1109,Overall,All Races,All Ages,All Grades
+2017,Pennsylvania,E-Cigarette Use (Adults),User Status,Current,6312,Overall,All Races,All Ages,All Grades
+2017,Pennsylvania,Cigarette Use (Adults),Smoking Status,Current,3401,Female,All Races,All Ages,All Grades
+2017,Pennsylvania,Cigarette Use (Adults),Smoking Status,Current,2950,Male,All Races,All Ages,All Grades
+2017,Pennsylvania,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,198,Male,All Races,All Ages,All Grades
+2017,Pennsylvania,E-Cigarette Use (Adults),Frequency of Use,Every Day,126,Male,All Races,All Ages,All Grades
+2017,Pennsylvania,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,198,Male,All Races,All Ages,All Grades
+2017,Pennsylvania,E-Cigarette Use (Adults),User Status,Current,2927,Male,All Races,All Ages,All Grades
+2017,Pennsylvania,E-Cigarette Use (Adults),Frequency of Use,Every Day,240,Overall,All Races,All Ages,All Grades
+2017,Pennsylvania,Cigarette Use (Adults),Smoking Frequency,Every Day,543,Male,All Races,All Ages,All Grades
+2017,Pennsylvania,Cigarette Use (Adults),Smoking Frequency,Every Day,566,Female,All Races,All Ages,All Grades
+2017,Pennsylvania,Cigarette Use (Adults),Smoking Frequency,Some Days,566,Female,All Races,All Ages,All Grades
+2017,Pennsylvania,E-Cigarette Use (Adults),Frequency of Use,Some Days,240,Overall,All Races,All Ages,All Grades
+2017,Pennsylvania,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,220,Overall,All Races,All Ages,All Grades
+2017,Pennsylvania,E-Cigarette Use (Adults),Frequency of Use,Some Days,126,Male,All Races,All Ages,All Grades
+2017,Pennsylvania,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,220,Overall,All Races,All Ages,All Grades
+2017,Pennsylvania,Smokeless Tobacco Use (Adults),User Status,Current,2949,Male,All Races,All Ages,All Grades
+2017,Pennsylvania,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,,Female,All Races,All Ages,All Grades
+2017,Puerto Rico,E-Cigarette Use (Adults),User Status,Current,4455,Overall,All Races,All Ages,All Grades
+2017,Puerto Rico,Cigarette Use (Adults),Smoking Frequency,Every Day,242,Male,All Races,All Ages,All Grades
+2017,Puerto Rico,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,,Male,All Races,All Ages,All Grades
+2017,Puerto Rico,E-Cigarette Use (Adults),Frequency of Use,Every Day,,Male,All Races,All Ages,All Grades
+2017,Puerto Rico,E-Cigarette Use (Adults),Frequency of Use,Some Days,,Overall,All Races,All Ages,All Grades
+2017,Puerto Rico,E-Cigarette Use (Adults),Frequency of Use,Every Day,,Overall,All Races,All Ages,All Grades
+2017,Puerto Rico,E-Cigarette Use (Adults),Frequency of Use,Some Days,,Female,All Races,All Ages,All Grades
+2017,Puerto Rico,Cigarette Use (Adults),Smoking Frequency,Every Day,410,Overall,All Races,All Ages,All Grades
+2017,Puerto Rico,Cigarette Use (Adults),Smoking Status,Current,4448,Overall,All Races,All Ages,All Grades
+2017,Puerto Rico,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,,Female,All Races,All Ages,All Grades
+2017,Puerto Rico,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,,Overall,All Races,All Ages,All Grades
+2017,Puerto Rico,E-Cigarette Use (Adults),User Status,Current,1698,Male,All Races,All Ages,All Grades
+2017,Puerto Rico,Cigarette Use (Adults),Smoking Frequency,Some Days,410,Overall,All Races,All Ages,All Grades
+2017,Puerto Rico,Cigarette Use (Adults),Smoking Frequency,Some Days,168,Female,All Races,All Ages,All Grades
+2017,Puerto Rico,Cigarette Use (Adults),Smoking Frequency,Every Day,168,Female,All Races,All Ages,All Grades
+2017,Puerto Rico,Cigarette Use (Adults),Smoking Status,Current,2752,Female,All Races,All Ages,All Grades
+2017,Puerto Rico,Smokeless Tobacco Use (Adults),User Status,Current,2756,Female,All Races,All Ages,All Grades
+2017,Puerto Rico,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,,Overall,All Races,All Ages,All Grades
+2017,Puerto Rico,Smokeless Tobacco Use (Adults),User Status,Current,4455,Overall,All Races,All Ages,All Grades
+2017,Puerto Rico,Cigarette Use (Adults),Smoking Status,Current,1695,Male,All Races,All Ages,All Grades
+2017,Puerto Rico,E-Cigarette Use (Adults),User Status,Current,2756,Female,All Races,All Ages,All Grades
+2017,Puerto Rico,E-Cigarette Use (Adults),Frequency of Use,Some Days,,Male,All Races,All Ages,All Grades
+2017,Puerto Rico,E-Cigarette Use (Adults),Frequency of Use,Every Day,,Female,All Races,All Ages,All Grades
+2017,Puerto Rico,Smokeless Tobacco Use (Adults),User Status,Current,1698,Male,All Races,All Ages,All Grades
+2017,Puerto Rico,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,,Male,All Races,All Ages,All Grades
+2017,Puerto Rico,Cigarette Use (Adults),Smoking Frequency,Some Days,242,Male,All Races,All Ages,All Grades
+2017,Puerto Rico,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,,Female,All Races,All Ages,All Grades
+2017,Rhode Island,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,,Male,All Races,All Ages,All Grades
+2017,Rhode Island,Cigarette Use (Adults),Smoking Frequency,Some Days,306,Male,All Races,All Ages,All Grades
+2017,Rhode Island,Smokeless Tobacco Use (Adults),User Status,Current,5415,Overall,All Races,All Ages,All Grades
+2017,Rhode Island,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,63,Overall,All Races,All Ages,All Grades
+2017,Rhode Island,E-Cigarette Use (Adults),User Status,Current,5348,Overall,All Races,All Ages,All Grades
+2017,Rhode Island,E-Cigarette Use (Adults),User Status,Current,3058,Female,All Races,All Ages,All Grades
+2017,Rhode Island,Cigarette Use (Adults),Smoking Frequency,Some Days,680,Overall,All Races,All Ages,All Grades
+2017,Rhode Island,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,63,Overall,All Races,All Ages,All Grades
+2017,Rhode Island,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,,Female,All Races,All Ages,All Grades
+2017,Rhode Island,Cigarette Use (Adults),Smoking Frequency,Some Days,374,Female,All Races,All Ages,All Grades
+2017,Rhode Island,Cigarette Use (Adults),Smoking Frequency,Every Day,306,Male,All Races,All Ages,All Grades
+2017,Rhode Island,E-Cigarette Use (Adults),User Status,Current,2280,Male,All Races,All Ages,All Grades
+2017,Rhode Island,E-Cigarette Use (Adults),Frequency of Use,Every Day,86,Male,All Races,All Ages,All Grades
+2017,Rhode Island,E-Cigarette Use (Adults),Frequency of Use,Every Day,180,Overall,All Races,All Ages,All Grades
+2017,Rhode Island,E-Cigarette Use (Adults),Frequency of Use,Some Days,94,Female,All Races,All Ages,All Grades
+2017,Rhode Island,Cigarette Use (Adults),Smoking Status,Current,3083,Female,All Races,All Ages,All Grades
+2017,Rhode Island,Cigarette Use (Adults),Smoking Status,Current,5387,Overall,All Races,All Ages,All Grades
+2017,Rhode Island,Cigarette Use (Adults),Smoking Status,Current,2294,Male,All Races,All Ages,All Grades
+2017,Rhode Island,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,,Female,All Races,All Ages,All Grades
+2017,Rhode Island,Cigarette Use (Adults),Smoking Frequency,Every Day,680,Overall,All Races,All Ages,All Grades
+2017,Rhode Island,E-Cigarette Use (Adults),Frequency of Use,Some Days,180,Overall,All Races,All Ages,All Grades
+2017,Rhode Island,Smokeless Tobacco Use (Adults),User Status,Current,2307,Male,All Races,All Ages,All Grades
+2017,Rhode Island,E-Cigarette Use (Adults),Frequency of Use,Some Days,86,Male,All Races,All Ages,All Grades
+2017,Rhode Island,Smokeless Tobacco Use (Adults),User Status,Current,3098,Female,All Races,All Ages,All Grades
+2017,Rhode Island,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,,Male,All Races,All Ages,All Grades
+2017,Rhode Island,E-Cigarette Use (Adults),Frequency of Use,Every Day,94,Female,All Races,All Ages,All Grades
+2017,Rhode Island,Cigarette Use (Adults),Smoking Frequency,Every Day,374,Female,All Races,All Ages,All Grades
+2017,South Carolina,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,236,Male,All Races,All Ages,All Grades
+2017,South Carolina,Cigarette Use (Adults),Smoking Status,Current,10896,Overall,All Races,All Ages,All Grades
+2017,South Carolina,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,304,Overall,All Races,All Ages,All Grades
+2017,South Carolina,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,68,Female,All Races,All Ages,All Grades
+2017,South Carolina,Cigarette Use (Adults),Smoking Frequency,Every Day,796,Male,All Races,All Ages,All Grades
+2017,South Carolina,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,68,Female,All Races,All Ages,All Grades
+2017,South Carolina,Smokeless Tobacco Use (Adults),User Status,Current,10949,Overall,All Races,All Ages,All Grades
+2017,South Carolina,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,236,Male,All Races,All Ages,All Grades
+2017,South Carolina,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,304,Overall,All Races,All Ages,All Grades
+2017,South Carolina,E-Cigarette Use (Adults),Frequency of Use,Every Day,155,Female,All Races,All Ages,All Grades
+2017,South Carolina,Cigarette Use (Adults),Smoking Status,Current,6408,Female,All Races,All Ages,All Grades
+2017,South Carolina,E-Cigarette Use (Adults),Frequency of Use,Every Day,290,Overall,All Races,All Ages,All Grades
+2017,South Carolina,Cigarette Use (Adults),Smoking Frequency,Some Days,1618,Overall,All Races,All Ages,All Grades
+2017,South Carolina,Cigarette Use (Adults),Smoking Status,Current,4479,Male,All Races,All Ages,All Grades
+2017,South Carolina,Smokeless Tobacco Use (Adults),User Status,Current,6441,Female,All Races,All Ages,All Grades
+2017,South Carolina,E-Cigarette Use (Adults),Frequency of Use,Every Day,135,Male,All Races,All Ages,All Grades
+2017,South Carolina,Cigarette Use (Adults),Smoking Frequency,Some Days,822,Female,All Races,All Ages,All Grades
+2017,South Carolina,E-Cigarette Use (Adults),Frequency of Use,Some Days,290,Overall,All Races,All Ages,All Grades
+2017,South Carolina,E-Cigarette Use (Adults),User Status,Current,6372,Female,All Races,All Ages,All Grades
+2017,South Carolina,E-Cigarette Use (Adults),Frequency of Use,Some Days,155,Female,All Races,All Ages,All Grades
+2017,South Carolina,Smokeless Tobacco Use (Adults),User Status,Current,4500,Male,All Races,All Ages,All Grades
+2017,South Carolina,E-Cigarette Use (Adults),User Status,Current,10838,Overall,All Races,All Ages,All Grades
+2017,South Carolina,E-Cigarette Use (Adults),User Status,Current,4459,Male,All Races,All Ages,All Grades
+2017,South Carolina,Cigarette Use (Adults),Smoking Frequency,Every Day,822,Female,All Races,All Ages,All Grades
+2017,South Carolina,Cigarette Use (Adults),Smoking Frequency,Some Days,796,Male,All Races,All Ages,All Grades
+2017,South Carolina,Cigarette Use (Adults),Smoking Frequency,Every Day,1618,Overall,All Races,All Ages,All Grades
+2017,South Carolina,E-Cigarette Use (Adults),Frequency of Use,Some Days,135,Male,All Races,All Ages,All Grades
+2017,South Dakota,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,,Female,All Races,All Ages,All Grades
+2017,South Dakota,Cigarette Use (Adults),Smoking Frequency,Some Days,560,Male,All Races,All Ages,All Grades
+2017,South Dakota,E-Cigarette Use (Adults),User Status,Current,3864,Female,All Races,All Ages,All Grades
+2017,South Dakota,Cigarette Use (Adults),Smoking Status,Current,2973,Male,All Races,All Ages,All Grades
+2017,South Dakota,E-Cigarette Use (Adults),User Status,Current,6835,Overall,All Races,All Ages,All Grades
+2017,South Dakota,E-Cigarette Use (Adults),User Status,Current,2971,Male,All Races,All Ages,All Grades
+2017,South Dakota,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,,Female,All Races,All Ages,All Grades
+2017,South Dakota,Cigarette Use (Adults),Smoking Status,Current,6837,Overall,All Races,All Ages,All Grades
+2017,South Dakota,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,351,Overall,All Races,All Ages,All Grades
+2017,South Dakota,E-Cigarette Use (Adults),Frequency of Use,Some Days,63,Male,All Races,All Ages,All Grades
+2017,South Dakota,E-Cigarette Use (Adults),Frequency of Use,Every Day,130,Overall,All Races,All Ages,All Grades
+2017,South Dakota,Cigarette Use (Adults),Smoking Frequency,Every Day,1216,Overall,All Races,All Ages,All Grades
+2017,South Dakota,Smokeless Tobacco Use (Adults),User Status,Current,2981,Male,All Races,All Ages,All Grades
+2017,South Dakota,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,304,Male,All Races,All Ages,All Grades
+2017,South Dakota,Smokeless Tobacco Use (Adults),User Status,Current,3882,Female,All Races,All Ages,All Grades
+2017,South Dakota,Cigarette Use (Adults),Smoking Frequency,Some Days,656,Female,All Races,All Ages,All Grades
+2017,South Dakota,Cigarette Use (Adults),Smoking Frequency,Every Day,560,Male,All Races,All Ages,All Grades
+2017,South Dakota,Cigarette Use (Adults),Smoking Status,Current,3864,Female,All Races,All Ages,All Grades
+2017,South Dakota,E-Cigarette Use (Adults),Frequency of Use,Some Days,130,Overall,All Races,All Ages,All Grades
+2017,South Dakota,Cigarette Use (Adults),Smoking Frequency,Every Day,656,Female,All Races,All Ages,All Grades
+2017,South Dakota,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,304,Male,All Races,All Ages,All Grades
+2017,South Dakota,Smokeless Tobacco Use (Adults),User Status,Current,6863,Overall,All Races,All Ages,All Grades
+2017,South Dakota,E-Cigarette Use (Adults),Frequency of Use,Every Day,67,Female,All Races,All Ages,All Grades
+2017,South Dakota,E-Cigarette Use (Adults),Frequency of Use,Every Day,63,Male,All Races,All Ages,All Grades
+2017,South Dakota,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,351,Overall,All Races,All Ages,All Grades
+2017,South Dakota,Cigarette Use (Adults),Smoking Frequency,Some Days,1216,Overall,All Races,All Ages,All Grades
+2017,South Dakota,E-Cigarette Use (Adults),Frequency of Use,Some Days,67,Female,All Races,All Ages,All Grades
+2017,Tennessee,E-Cigarette Use (Adults),User Status,Current,5503,Overall,All Races,All Ages,All Grades
+2017,Tennessee,E-Cigarette Use (Adults),Frequency of Use,Some Days,109,Male,All Races,All Ages,All Grades
+2017,Tennessee,Cigarette Use (Adults),Smoking Frequency,Some Days,648,Female,All Races,All Ages,All Grades
+2017,Tennessee,Cigarette Use (Adults),Smoking Frequency,Some Days,525,Male,All Races,All Ages,All Grades
+2017,Tennessee,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,,Female,All Races,All Ages,All Grades
+2017,Tennessee,E-Cigarette Use (Adults),Frequency of Use,Every Day,109,Male,All Races,All Ages,All Grades
+2017,Tennessee,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,269,Male,All Races,All Ages,All Grades
+2017,Tennessee,Cigarette Use (Adults),Smoking Status,Current,3144,Female,All Races,All Ages,All Grades
+2017,Tennessee,E-Cigarette Use (Adults),Frequency of Use,Some Days,252,Overall,All Races,All Ages,All Grades
+2017,Tennessee,E-Cigarette Use (Adults),Frequency of Use,Every Day,252,Overall,All Races,All Ages,All Grades
+2017,Tennessee,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,313,Overall,All Races,All Ages,All Grades
+2017,Tennessee,Cigarette Use (Adults),Smoking Frequency,Every Day,1173,Overall,All Races,All Ages,All Grades
+2017,Tennessee,E-Cigarette Use (Adults),Frequency of Use,Every Day,143,Female,All Races,All Ages,All Grades
+2017,Tennessee,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,,Female,All Races,All Ages,All Grades
+2017,Tennessee,Cigarette Use (Adults),Smoking Status,Current,5567,Overall,All Races,All Ages,All Grades
+2017,Tennessee,Cigarette Use (Adults),Smoking Frequency,Some Days,1173,Overall,All Races,All Ages,All Grades
+2017,Tennessee,Cigarette Use (Adults),Smoking Status,Current,2422,Male,All Races,All Ages,All Grades
+2017,Tennessee,E-Cigarette Use (Adults),User Status,Current,3108,Female,All Races,All Ages,All Grades
+2017,Tennessee,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,269,Male,All Races,All Ages,All Grades
+2017,Tennessee,Smokeless Tobacco Use (Adults),User Status,Current,5579,Overall,All Races,All Ages,All Grades
+2017,Tennessee,Cigarette Use (Adults),Smoking Frequency,Every Day,525,Male,All Races,All Ages,All Grades
+2017,Tennessee,Smokeless Tobacco Use (Adults),User Status,Current,3157,Female,All Races,All Ages,All Grades
+2017,Tennessee,Cigarette Use (Adults),Smoking Frequency,Every Day,648,Female,All Races,All Ages,All Grades
+2017,Tennessee,Smokeless Tobacco Use (Adults),User Status,Current,2421,Male,All Races,All Ages,All Grades
+2017,Tennessee,E-Cigarette Use (Adults),Frequency of Use,Some Days,143,Female,All Races,All Ages,All Grades
+2017,Tennessee,E-Cigarette Use (Adults),User Status,Current,2394,Male,All Races,All Ages,All Grades
+2017,Tennessee,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,313,Overall,All Races,All Ages,All Grades
+2017,Texas,Cigarette Use (Adults),Smoking Frequency,Some Days,695,Male,All Races,All Ages,All Grades
+2017,Texas,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,336,Male,All Races,All Ages,All Grades
+2017,Texas,E-Cigarette Use (Adults),Frequency of Use,Some Days,170,Female,All Races,All Ages,All Grades
+2017,Texas,E-Cigarette Use (Adults),Frequency of Use,Some Days,174,Male,All Races,All Ages,All Grades
+2017,Texas,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,425,Overall,All Races,All Ages,All Grades
+2017,Texas,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,89,Female,All Races,All Ages,All Grades
+2017,Texas,Cigarette Use (Adults),Smoking Frequency,Every Day,1495,Overall,All Races,All Ages,All Grades
+2017,Texas,Cigarette Use (Adults),Smoking Frequency,Every Day,800,Female,All Races,All Ages,All Grades
+2017,Texas,Cigarette Use (Adults),Smoking Frequency,Some Days,800,Female,All Races,All Ages,All Grades
+2017,Texas,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,336,Male,All Races,All Ages,All Grades
+2017,Texas,E-Cigarette Use (Adults),User Status,Current,11594,Overall,All Races,All Ages,All Grades
+2017,Texas,E-Cigarette Use (Adults),Frequency of Use,Some Days,344,Overall,All Races,All Ages,All Grades
+2017,Texas,Smokeless Tobacco Use (Adults),User Status,Current,4812,Male,All Races,All Ages,All Grades
+2017,Texas,E-Cigarette Use (Adults),User Status,Current,4761,Male,All Races,All Ages,All Grades
+2017,Texas,Cigarette Use (Adults),Smoking Frequency,Every Day,695,Male,All Races,All Ages,All Grades
+2017,Texas,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,425,Overall,All Races,All Ages,All Grades
+2017,Texas,E-Cigarette Use (Adults),Frequency of Use,Every Day,344,Overall,All Races,All Ages,All Grades
+2017,Texas,E-Cigarette Use (Adults),Frequency of Use,Every Day,174,Male,All Races,All Ages,All Grades
+2017,Texas,Cigarette Use (Adults),Smoking Status,Current,4794,Male,All Races,All Ages,All Grades
+2017,Texas,Smokeless Tobacco Use (Adults),User Status,Current,6896,Female,All Races,All Ages,All Grades
+2017,Texas,Cigarette Use (Adults),Smoking Status,Current,11697,Overall,All Races,All Ages,All Grades
+2017,Texas,E-Cigarette Use (Adults),User Status,Current,6820,Female,All Races,All Ages,All Grades
+2017,Texas,E-Cigarette Use (Adults),Frequency of Use,Every Day,170,Female,All Races,All Ages,All Grades
+2017,Texas,Smokeless Tobacco Use (Adults),User Status,Current,11721,Overall,All Races,All Ages,All Grades
+2017,Texas,Cigarette Use (Adults),Smoking Frequency,Some Days,1495,Overall,All Races,All Ages,All Grades
+2017,Texas,Cigarette Use (Adults),Smoking Status,Current,6889,Female,All Races,All Ages,All Grades
+2017,Texas,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,89,Female,All Races,All Ages,All Grades
+2017,Utah,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,228,Male,All Races,All Ages,All Grades
+2017,Utah,Cigarette Use (Adults),Smoking Frequency,Every Day,466,Male,All Races,All Ages,All Grades
+2017,Utah,Smokeless Tobacco Use (Adults),User Status,Current,4775,Male,All Races,All Ages,All Grades
+2017,Utah,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,228,Male,All Races,All Ages,All Grades
+2017,Utah,Cigarette Use (Adults),Smoking Status,Current,5208,Female,All Races,All Ages,All Grades
+2017,Utah,E-Cigarette Use (Adults),User Status,Current,9972,Overall,All Races,All Ages,All Grades
+2017,Utah,E-Cigarette Use (Adults),Frequency of Use,Some Days,233,Male,All Races,All Ages,All Grades
+2017,Utah,E-Cigarette Use (Adults),Frequency of Use,Every Day,376,Overall,All Races,All Ages,All Grades
+2017,Utah,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,,Female,All Races,All Ages,All Grades
+2017,Utah,Smokeless Tobacco Use (Adults),User Status,Current,5230,Female,All Races,All Ages,All Grades
+2017,Utah,E-Cigarette Use (Adults),Frequency of Use,Some Days,376,Overall,All Races,All Ages,All Grades
+2017,Utah,Cigarette Use (Adults),Smoking Frequency,Some Days,348,Female,All Races,All Ages,All Grades
+2017,Utah,Cigarette Use (Adults),Smoking Frequency,Every Day,814,Overall,All Races,All Ages,All Grades
+2017,Utah,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,269,Overall,All Races,All Ages,All Grades
+2017,Utah,Cigarette Use (Adults),Smoking Status,Current,4751,Male,All Races,All Ages,All Grades
+2017,Utah,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,269,Overall,All Races,All Ages,All Grades
+2017,Utah,Cigarette Use (Adults),Smoking Status,Current,9971,Overall,All Races,All Ages,All Grades
+2017,Utah,E-Cigarette Use (Adults),Frequency of Use,Every Day,143,Female,All Races,All Ages,All Grades
+2017,Utah,Cigarette Use (Adults),Smoking Frequency,Some Days,814,Overall,All Races,All Ages,All Grades
+2017,Utah,E-Cigarette Use (Adults),User Status,Current,4756,Male,All Races,All Ages,All Grades
+2017,Utah,E-Cigarette Use (Adults),Frequency of Use,Every Day,233,Male,All Races,All Ages,All Grades
+2017,Utah,Smokeless Tobacco Use (Adults),User Status,Current,10018,Overall,All Races,All Ages,All Grades
+2017,Utah,Cigarette Use (Adults),Smoking Frequency,Every Day,348,Female,All Races,All Ages,All Grades
+2017,Utah,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,,Female,All Races,All Ages,All Grades
+2017,Utah,Cigarette Use (Adults),Smoking Frequency,Some Days,466,Male,All Races,All Ages,All Grades
+2017,Utah,E-Cigarette Use (Adults),User Status,Current,5203,Female,All Races,All Ages,All Grades
+2017,Utah,E-Cigarette Use (Adults),Frequency of Use,Some Days,143,Female,All Races,All Ages,All Grades
+2017,Vermont,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,104,Male,All Races,All Ages,All Grades
+2017,Vermont,E-Cigarette Use (Adults),Frequency of Use,Some Days,61,Female,All Races,All Ages,All Grades
+2017,Vermont,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,127,Overall,All Races,All Ages,All Grades
+2017,Vermont,Cigarette Use (Adults),Smoking Frequency,Some Days,838,Overall,All Races,All Ages,All Grades
+2017,Vermont,E-Cigarette Use (Adults),Frequency of Use,Every Day,56,Male,All Races,All Ages,All Grades
+2017,Vermont,Cigarette Use (Adults),Smoking Status,Current,3405,Female,All Races,All Ages,All Grades
+2017,Vermont,Smokeless Tobacco Use (Adults),User Status,Current,2813,Male,All Races,All Ages,All Grades
+2017,Vermont,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,,Female,All Races,All Ages,All Grades
+2017,Vermont,E-Cigarette Use (Adults),Frequency of Use,Some Days,56,Male,All Races,All Ages,All Grades
+2017,Vermont,Cigarette Use (Adults),Smoking Status,Current,6218,Overall,All Races,All Ages,All Grades
+2017,Vermont,Cigarette Use (Adults),Smoking Frequency,Some Days,438,Female,All Races,All Ages,All Grades
+2017,Vermont,Cigarette Use (Adults),Smoking Status,Current,2804,Male,All Races,All Ages,All Grades
+2017,Vermont,Cigarette Use (Adults),Smoking Frequency,Every Day,838,Overall,All Races,All Ages,All Grades
+2017,Vermont,Cigarette Use (Adults),Smoking Frequency,Some Days,400,Male,All Races,All Ages,All Grades
+2017,Vermont,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,,Female,All Races,All Ages,All Grades
+2017,Vermont,E-Cigarette Use (Adults),Frequency of Use,Every Day,61,Female,All Races,All Ages,All Grades
+2017,Vermont,Smokeless Tobacco Use (Adults),User Status,Current,6258,Overall,All Races,All Ages,All Grades
+2017,Vermont,Cigarette Use (Adults),Smoking Frequency,Every Day,400,Male,All Races,All Ages,All Grades
+2017,Vermont,E-Cigarette Use (Adults),User Status,Current,3392,Female,All Races,All Ages,All Grades
+2017,Vermont,E-Cigarette Use (Adults),Frequency of Use,Every Day,117,Overall,All Races,All Ages,All Grades
+2017,Vermont,E-Cigarette Use (Adults),User Status,Current,2776,Male,All Races,All Ages,All Grades
+2017,Vermont,Cigarette Use (Adults),Smoking Frequency,Every Day,438,Female,All Races,All Ages,All Grades
+2017,Vermont,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,127,Overall,All Races,All Ages,All Grades
+2017,Vermont,Smokeless Tobacco Use (Adults),User Status,Current,3436,Female,All Races,All Ages,All Grades
+2017,Vermont,E-Cigarette Use (Adults),Frequency of Use,Some Days,117,Overall,All Races,All Ages,All Grades
+2017,Vermont,E-Cigarette Use (Adults),User Status,Current,6177,Overall,All Races,All Ages,All Grades
+2017,Vermont,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,104,Male,All Races,All Ages,All Grades
+2017,Virginia,E-Cigarette Use (Adults),Frequency of Use,Some Days,162,Female,All Races,All Ages,All Grades
+2017,Virginia,E-Cigarette Use (Adults),User Status,Current,9274,Overall,All Races,All Ages,All Grades
+2017,Virginia,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,303,Overall,All Races,All Ages,All Grades
+2017,Virginia,E-Cigarette Use (Adults),Frequency of Use,Every Day,156,Male,All Races,All Ages,All Grades
+2017,Virginia,Smokeless Tobacco Use (Adults),User Status,Current,5263,Female,All Races,All Ages,All Grades
+2017,Virginia,E-Cigarette Use (Adults),Frequency of Use,Every Day,318,Overall,All Races,All Ages,All Grades
+2017,Virginia,E-Cigarette Use (Adults),User Status,Current,4051,Male,All Races,All Ages,All Grades
+2017,Virginia,Cigarette Use (Adults),Smoking Frequency,Every Day,712,Female,All Races,All Ages,All Grades
+2017,Virginia,Cigarette Use (Adults),Smoking Status,Current,9285,Overall,All Races,All Ages,All Grades
+2017,Virginia,E-Cigarette Use (Adults),Frequency of Use,Every Day,162,Female,All Races,All Ages,All Grades
+2017,Virginia,Cigarette Use (Adults),Smoking Frequency,Some Days,712,Female,All Races,All Ages,All Grades
+2017,Virginia,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,303,Overall,All Races,All Ages,All Grades
+2017,Virginia,Smokeless Tobacco Use (Adults),User Status,Current,4073,Male,All Races,All Ages,All Grades
+2017,Virginia,Cigarette Use (Adults),Smoking Frequency,Some Days,624,Male,All Races,All Ages,All Grades
+2017,Virginia,Smokeless Tobacco Use (Adults),User Status,Current,9336,Overall,All Races,All Ages,All Grades
+2017,Virginia,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,255,Male,All Races,All Ages,All Grades
+2017,Virginia,Cigarette Use (Adults),Smoking Frequency,Every Day,1336,Overall,All Races,All Ages,All Grades
+2017,Virginia,E-Cigarette Use (Adults),User Status,Current,5223,Female,All Races,All Ages,All Grades
+2017,Virginia,E-Cigarette Use (Adults),Frequency of Use,Some Days,318,Overall,All Races,All Ages,All Grades
+2017,Virginia,Cigarette Use (Adults),Smoking Frequency,Every Day,624,Male,All Races,All Ages,All Grades
+2017,Virginia,E-Cigarette Use (Adults),Frequency of Use,Some Days,156,Male,All Races,All Ages,All Grades
+2017,Virginia,Cigarette Use (Adults),Smoking Status,Current,4043,Male,All Races,All Ages,All Grades
+2017,Virginia,Cigarette Use (Adults),Smoking Frequency,Some Days,1336,Overall,All Races,All Ages,All Grades
+2017,Virginia,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,,Female,All Races,All Ages,All Grades
+2017,Virginia,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,255,Male,All Races,All Ages,All Grades
+2017,Virginia,Cigarette Use (Adults),Smoking Status,Current,5242,Female,All Races,All Ages,All Grades
+2017,Virginia,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,,Female,All Races,All Ages,All Grades
+2017,Washington,Smokeless Tobacco Use (Adults),User Status,Current,5863,Male,All Races,All Ages,All Grades
+2017,Washington,Cigarette Use (Adults),Smoking Frequency,Some Days,754,Male,All Races,All Ages,All Grades
+2017,Washington,E-Cigarette Use (Adults),User Status,Current,12731,Overall,All Races,All Ages,All Grades
+2017,Washington,Cigarette Use (Adults),Smoking Frequency,Some Days,742,Female,All Races,All Ages,All Grades
+2017,Washington,E-Cigarette Use (Adults),Frequency of Use,Some Days,390,Overall,All Races,All Ages,All Grades
+2017,Washington,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,,Female,All Races,All Ages,All Grades
+2017,Washington,Cigarette Use (Adults),Smoking Frequency,Every Day,1496,Overall,All Races,All Ages,All Grades
+2017,Washington,E-Cigarette Use (Adults),Frequency of Use,Every Day,207,Male,All Races,All Ages,All Grades
+2017,Washington,E-Cigarette Use (Adults),User Status,Current,6900,Female,All Races,All Ages,All Grades
+2017,Washington,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,357,Overall,All Races,All Ages,All Grades
+2017,Washington,Cigarette Use (Adults),Smoking Frequency,Some Days,1496,Overall,All Races,All Ages,All Grades
+2017,Washington,Cigarette Use (Adults),Smoking Status,Current,12787,Overall,All Races,All Ages,All Grades
+2017,Washington,Smokeless Tobacco Use (Adults),User Status,Current,6955,Female,All Races,All Ages,All Grades
+2017,Washington,Cigarette Use (Adults),Smoking Status,Current,5837,Male,All Races,All Ages,All Grades
+2017,Washington,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,316,Male,All Races,All Ages,All Grades
+2017,Washington,E-Cigarette Use (Adults),Frequency of Use,Some Days,183,Female,All Races,All Ages,All Grades
+2017,Washington,Cigarette Use (Adults),Smoking Frequency,Every Day,754,Male,All Races,All Ages,All Grades
+2017,Washington,E-Cigarette Use (Adults),User Status,Current,5812,Male,All Races,All Ages,All Grades
+2017,Washington,E-Cigarette Use (Adults),Frequency of Use,Every Day,390,Overall,All Races,All Ages,All Grades
+2017,Washington,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,,Female,All Races,All Ages,All Grades
+2017,Washington,Smokeless Tobacco Use (Adults),User Status,Current,12837,Overall,All Races,All Ages,All Grades
+2017,Washington,E-Cigarette Use (Adults),Frequency of Use,Every Day,183,Female,All Races,All Ages,All Grades
+2017,Washington,Cigarette Use (Adults),Smoking Frequency,Every Day,742,Female,All Races,All Ages,All Grades
+2017,Washington,Cigarette Use (Adults),Smoking Status,Current,6931,Female,All Races,All Ages,All Grades
+2017,Washington,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,316,Male,All Races,All Ages,All Grades
+2017,Washington,E-Cigarette Use (Adults),Frequency of Use,Some Days,207,Male,All Races,All Ages,All Grades
+2017,Washington,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,357,Overall,All Races,All Ages,All Grades
+2017,West Virginia,E-Cigarette Use (Adults),Frequency of Use,Some Days,120,Female,All Races,All Ages,All Grades
+2017,West Virginia,E-Cigarette Use (Adults),User Status,Current,2312,Male,All Races,All Ages,All Grades
+2017,West Virginia,Cigarette Use (Adults),Smoking Frequency,Every Day,500,Male,All Races,All Ages,All Grades
+2017,West Virginia,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,,Female,All Races,All Ages,All Grades
+2017,West Virginia,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,330,Male,All Races,All Ages,All Grades
+2017,West Virginia,Cigarette Use (Adults),Smoking Frequency,Every Day,1184,Overall,All Races,All Ages,All Grades
+2017,West Virginia,E-Cigarette Use (Adults),User Status,Current,3061,Female,All Races,All Ages,All Grades
+2017,West Virginia,E-Cigarette Use (Adults),Frequency of Use,Every Day,101,Male,All Races,All Ages,All Grades
+2017,West Virginia,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,,Female,All Races,All Ages,All Grades
+2017,West Virginia,E-Cigarette Use (Adults),Frequency of Use,Some Days,221,Overall,All Races,All Ages,All Grades
+2017,West Virginia,E-Cigarette Use (Adults),Frequency of Use,Every Day,221,Overall,All Races,All Ages,All Grades
+2017,West Virginia,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,330,Male,All Races,All Ages,All Grades
+2017,West Virginia,Cigarette Use (Adults),Smoking Frequency,Some Days,500,Male,All Races,All Ages,All Grades
+2017,West Virginia,E-Cigarette Use (Adults),Frequency of Use,Some Days,101,Male,All Races,All Ages,All Grades
+2017,West Virginia,Cigarette Use (Adults),Smoking Status,Current,2313,Male,All Races,All Ages,All Grades
+2017,West Virginia,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,364,Overall,All Races,All Ages,All Grades
+2017,West Virginia,Cigarette Use (Adults),Smoking Frequency,Some Days,1184,Overall,All Races,All Ages,All Grades
+2017,West Virginia,E-Cigarette Use (Adults),User Status,Current,5373,Overall,All Races,All Ages,All Grades
+2017,West Virginia,Cigarette Use (Adults),Smoking Frequency,Every Day,684,Female,All Races,All Ages,All Grades
+2017,West Virginia,Smokeless Tobacco Use (Adults),User Status,Current,2320,Male,All Races,All Ages,All Grades
+2017,West Virginia,E-Cigarette Use (Adults),Frequency of Use,Every Day,120,Female,All Races,All Ages,All Grades
+2017,West Virginia,Smokeless Tobacco Use (Adults),User Status,Current,3073,Female,All Races,All Ages,All Grades
+2017,West Virginia,Cigarette Use (Adults),Smoking Frequency,Some Days,684,Female,All Races,All Ages,All Grades
+2017,West Virginia,Cigarette Use (Adults),Smoking Status,Current,5373,Overall,All Races,All Ages,All Grades
+2017,West Virginia,Smokeless Tobacco Use (Adults),User Status,Current,5393,Overall,All Races,All Ages,All Grades
+2017,West Virginia,Cigarette Use (Adults),Smoking Status,Current,3060,Female,All Races,All Ages,All Grades
+2017,West Virginia,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,364,Overall,All Races,All Ages,All Grades
+2017,Wisconsin,E-Cigarette Use (Adults),Frequency of Use,Some Days,92,Male,All Races,All Ages,All Grades
+2017,Wisconsin,Cigarette Use (Adults),Smoking Status,Current,5538,Overall,All Races,All Ages,All Grades
+2017,Wisconsin,E-Cigarette Use (Adults),Frequency of Use,Every Day,70,Female,All Races,All Ages,All Grades
+2017,Wisconsin,E-Cigarette Use (Adults),Frequency of Use,Every Day,162,Overall,All Races,All Ages,All Grades
+2017,Wisconsin,Cigarette Use (Adults),Smoking Status,Current,2512,Male,All Races,All Ages,All Grades
+2017,Wisconsin,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,192,Overall,All Races,All Ages,All Grades
+2017,Wisconsin,Cigarette Use (Adults),Smoking Frequency,Every Day,834,Overall,All Races,All Ages,All Grades
+2017,Wisconsin,Cigarette Use (Adults),Smoking Frequency,Some Days,834,Overall,All Races,All Ages,All Grades
+2017,Wisconsin,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,171,Male,All Races,All Ages,All Grades
+2017,Wisconsin,Cigarette Use (Adults),Smoking Frequency,Every Day,445,Female,All Races,All Ages,All Grades
+2017,Wisconsin,Cigarette Use (Adults),Smoking Frequency,Some Days,389,Male,All Races,All Ages,All Grades
+2017,Wisconsin,E-Cigarette Use (Adults),Frequency of Use,Every Day,92,Male,All Races,All Ages,All Grades
+2017,Wisconsin,E-Cigarette Use (Adults),User Status,Current,2491,Male,All Races,All Ages,All Grades
+2017,Wisconsin,Smokeless Tobacco Use (Adults),User Status,Current,5549,Overall,All Races,All Ages,All Grades
+2017,Wisconsin,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,,Female,All Races,All Ages,All Grades
+2017,Wisconsin,Smokeless Tobacco Use (Adults),User Status,Current,2514,Male,All Races,All Ages,All Grades
+2017,Wisconsin,E-Cigarette Use (Adults),Frequency of Use,Some Days,162,Overall,All Races,All Ages,All Grades
+2017,Wisconsin,Smokeless Tobacco Use (Adults),User Status,Current,3035,Female,All Races,All Ages,All Grades
+2017,Wisconsin,Cigarette Use (Adults),Smoking Frequency,Every Day,389,Male,All Races,All Ages,All Grades
+2017,Wisconsin,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,,Female,All Races,All Ages,All Grades
+2017,Wisconsin,E-Cigarette Use (Adults),User Status,Current,5500,Overall,All Races,All Ages,All Grades
+2017,Wisconsin,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,171,Male,All Races,All Ages,All Grades
+2017,Wisconsin,E-Cigarette Use (Adults),Frequency of Use,Some Days,70,Female,All Races,All Ages,All Grades
+2017,Wisconsin,E-Cigarette Use (Adults),User Status,Current,3009,Female,All Races,All Ages,All Grades
+2017,Wisconsin,Cigarette Use (Adults),Smoking Frequency,Some Days,445,Female,All Races,All Ages,All Grades
+2017,Wisconsin,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,192,Overall,All Races,All Ages,All Grades
+2017,Wisconsin,Cigarette Use (Adults),Smoking Status,Current,3026,Female,All Races,All Ages,All Grades
+2017,Wyoming,Cigarette Use (Adults),Smoking Frequency,Some Days,310,Male,All Races,All Ages,All Grades
+2017,Wyoming,Cigarette Use (Adults),Smoking Frequency,Every Day,310,Male,All Races,All Ages,All Grades
+2017,Wyoming,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,269,Male,All Races,All Ages,All Grades
+2017,Wyoming,E-Cigarette Use (Adults),Frequency of Use,Every Day,158,Overall,All Races,All Ages,All Grades
+2017,Wyoming,Cigarette Use (Adults),Smoking Frequency,Some Days,343,Female,All Races,All Ages,All Grades
+2017,Wyoming,E-Cigarette Use (Adults),Frequency of Use,Every Day,74,Female,All Races,All Ages,All Grades
+2017,Wyoming,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,,Female,All Races,All Ages,All Grades
+2017,Wyoming,Smokeless Tobacco Use (Adults),User Status,Current,2021,Male,All Races,All Ages,All Grades
+2017,Wyoming,Smokeless Tobacco Use (Adults),User Status,Current,2358,Female,All Races,All Ages,All Grades
+2017,Wyoming,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,,Female,All Races,All Ages,All Grades
+2017,Wyoming,Cigarette Use (Adults),Smoking Frequency,Every Day,653,Overall,All Races,All Ages,All Grades
+2017,Wyoming,Cigarette Use (Adults),Smoking Frequency,Some Days,653,Overall,All Races,All Ages,All Grades
+2017,Wyoming,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,269,Male,All Races,All Ages,All Grades
+2017,Wyoming,Cigarette Use (Adults),Smoking Status,Current,4363,Overall,All Races,All Ages,All Grades
+2017,Wyoming,Smokeless Tobacco Use (Adults),Frequency of Use,Some Days,295,Overall,All Races,All Ages,All Grades
+2017,Wyoming,E-Cigarette Use (Adults),Frequency of Use,Every Day,84,Male,All Races,All Ages,All Grades
+2017,Wyoming,Smokeless Tobacco Use (Adults),Frequency of Use,Every Day,295,Overall,All Races,All Ages,All Grades
+2017,Wyoming,Cigarette Use (Adults),Smoking Status,Current,2348,Female,All Races,All Ages,All Grades
+2017,Wyoming,Cigarette Use (Adults),Smoking Frequency,Every Day,343,Female,All Races,All Ages,All Grades
+2017,Wyoming,E-Cigarette Use (Adults),Frequency of Use,Some Days,158,Overall,All Races,All Ages,All Grades
+2017,Wyoming,E-Cigarette Use (Adults),Frequency of Use,Some Days,84,Male,All Races,All Ages,All Grades
+2017,Wyoming,Cigarette Use (Adults),Smoking Status,Current,2015,Male,All Races,All Ages,All Grades
+2017,Wyoming,Smokeless Tobacco Use (Adults),User Status,Current,4379,Overall,All Races,All Ages,All Grades
+2017,Wyoming,E-Cigarette Use (Adults),User Status,Current,4365,Overall,All Races,All Ages,All Grades
+2017,Wyoming,E-Cigarette Use (Adults),Frequency of Use,Some Days,74,Female,All Races,All Ages,All Grades
+2017,Wyoming,E-Cigarette Use (Adults),User Status,Current,2011,Male,All Races,All Ages,All Grades
+2017,Wyoming,E-Cigarette Use (Adults),User Status,Current,2354,Female,All Races,All Ages,All Grades
